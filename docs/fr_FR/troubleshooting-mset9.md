@@ -41,7 +41,7 @@ If this does not work, your SD card needs to be formatted:
 Ensure that you have reset the title database.
 
 - Please power on your console with your SD inserted
-- Lancez les paramètres du système et accédez à `Gestion des données` -> `Nintendo 3DS` -> `Logiciel` -> Réinitialiser ([image](/images/screenshots/database-reset.jpg))
+- Lancez les paramètres du système et accédez à `Gestion des données` -> `Nintendo 3DS` -> `Logiciels` -> Réinitialiser ([image](/images/screenshots/database-reset.jpg))
   - Cela n'effacera aucune de vos données
 - If you get a reset prompt, after resetting, power off your console and start again from [Section I Step 14](installing-boot9strap-\(mset9-cli\)#section-i---prep-work)
 
@@ -99,7 +99,7 @@ You have multiple ID0 folders. To determine the correct folder, follow these ins
    - Your applications will have disappeared. This is normal and will be resolved shortly
 5. Éteignez votre console
 6. Insérez votre carte SD dans votre ordinateur
-7. Navigate to the `Nintendo 3DS` folder on your SD card
+7. Naviguez vers le dossier `Nintendo 3DS` sur votre carte SD
 8. Write down the first few characters of the folder you see
    - This is your true ID0, which we will keep in the real Nintendo 3DS folder
 9. Delete the ID0 from the current `Nintendo 3DS` folder
@@ -140,7 +140,7 @@ One or more files that MSET9 needs to run is missing or corrupted. Re-download t
 
 To manually remove MSET9, follow these instructions:
 
-1. Navigate to the `Nintendo 3DS` folder on your SD card
+1. Naviguez vers le dossier `Nintendo 3DS` sur votre carte SD
 2. Open the 32 character long folder that you see
 3. You should see two folders, delete the folder containing garbled text
 4. If the remaining folder ends with _user-id1, remove _user-id1 by renaming it
@@ -208,7 +208,7 @@ If you continue to have this issue and are sure that you did everything correctl
 
 :::details An exception occurred after triggering MSET9
 
-This likely indicates that you already have custom firmware. You should [check for CFW](checking-for-cfw).
+Cela indique que vous avez probablement déjà un custom firmware. You should [check for CFW](checking-for-cfw).
 
 :::
 

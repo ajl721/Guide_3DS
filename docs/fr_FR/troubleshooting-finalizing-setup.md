@@ -54,7 +54,7 @@ You need at least 1.3GB of free space to perform the NAND backup, which is a par
 3. Copy the `Nintendo 3DS` folder from the root of your SD card to your computer
 4. Delete the Nintendo 3DS folder from the SD card
 5. Réinsérez votre carte SD dans votre console
-6. Press and hold (Start), and while holding (Start), power on your console. Ceci lancera GodMode9
+6. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
 7. Press the (Home) button
 8. Sélectionnez "Scripts..."
 9. Sélectionnez "finalize"
@@ -71,7 +71,7 @@ You need at least 1.3GB of free space to perform the NAND backup, which is a par
 Now that you have your NAND backup in a safe place:
 
 1. Réinsérez votre carte SD dans votre console
-2. Press and hold (Start), and while holding (Start), power on your console. Ceci lancera GodMode9
+2. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
 3. Press the (Home) button
 4. Sélectionnez "Scripts..."
 5. Sélectionnez "finalize"
@@ -95,7 +95,7 @@ Make sure you have at least 1.3GB available in your SD card. If you don't have e
 3. Copy the `Nintendo 3DS` folder from the root of your SD card to your computer
 4. Delete the Nintendo 3DS folder from the SD card
 5. Réinsérez votre carte SD dans votre console
-6. Press and hold (Start), and while holding (Start), power on your console. Ceci lancera GodMode9
+6. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
 7. Perform a [NAND Backup](godmode9-usage#creating-a-nand-backup)
 8. Copy the files in `gm9/out` on your SD to a safe location on your computer
 9. Delete the `<date>_<serialnumber>_sysnand_##.bin` and `<date>_<serialnumber>_sysnand_##.bin.sha` files from the SD card, keeping essential.exefs in `/gm9/out/`
@@ -117,13 +117,13 @@ Ensure that your SD card is not [locked](/images/sdlock.png). If the SD card is 
 The script has detected that the Nintendo 3DS folder is missing AND that you have already made a NAND backup before. If you intend to install homebrew applications, you should do the following:
 
 1. Press (B) to cancel making another NAND backup
-2. Hold (R) and press (Start) at the same time to power off your console
+2. Maintenez (R) appuyé et appuyez sur (Start) en même temps pour éteindre votre console
 3. Copy the contents of `/gm9/backups/` to a safe location on your computer
 4. Delete `/gm9/backups/` from your SD card
 5. If you moved your Nintendo 3DS folder off of your SD card to get to this point, copy it back to your SD card
    - If you do not have a Nintendo 3DS folder, boot into the HOME Menu at least once with the SD card inserted to automatically generate it
-6. Press and hold (Start), and while holding (Start), power on your console. Ceci lancera GodMode9
-7. Press (Home) to bring up the action menu
+6. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
+7. Appuyez sur (HOME) pour faire apparaître le menu d’action
 8. Sélectionnez "Scripts..."
 9. Sélectionnez "finalize"
 10. Suivez les instructions du script, en répondant aux questions qui vous sont posées

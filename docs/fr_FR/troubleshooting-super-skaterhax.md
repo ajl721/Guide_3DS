@@ -42,13 +42,13 @@ The file `arm11code.bin` is missing or misplaced. Make sure to copy the files of
 
 :::details An exception occured or "DLL_HEAP_INFORMATION" when pressing GO! GO!
 
-This likely indicates that you already have custom firmware. You should [check for CFW](checking-for-cfw).
+Cela indique que vous avez probablement déjà un custom firmware. You should [check for CFW](checking-for-cfw).
 
 :::
 
 :::details Error 032-1035 when trying to view the skaterhax webpage
 
-Your Internet connection is blocking access to the skaterhax webpage. If possible, try a mobile hotspot. If you do not have another Internet connection available, follow [MSET9](installing-boot9strap-\(mset9\)) instead.
+Votre connexion Internet bloque l'accès à la page web de skaterhax. If possible, try a mobile hotspot. If you do not have another Internet connection available, follow [MSET9](installing-boot9strap-\(mset9\)) instead.
 
 :::
 

@@ -2,7 +2,7 @@
 
 ::: info
 
-Lisez attentivement cette page s'il s'agit de la première fois que vous hacker une 3DS (ou si vous n'êtes pas familier avec la technologie en général) ! Si vous savez ce que vous faites et que vous avez une expérience antérieure, continuez vers [Pour commencer](get-started).
+S'il s'agit de la première fois que vous moddez une 3DS (ou si vous n'êtes pas familier avec la technologie), lisez attentivement cette page ! Si vous savez ce que vous faites et que vous avez une expérience antérieure, continuez vers [Pour commencer](get-started).
 
 :::
 
@@ -44,9 +44,22 @@ Dans la plupart des cas, vous pouvez suivre ce guide tant que vous avez la possi
 
 :::
 
-L'emplacement du port carte SD et le type de carte SD accepté dépendent du modèle de votre 3DS. Plus d'informations peuvent être trouvées sur la [page officielle de l'assistance de Nintendo](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card).
+L'emplacement du port carte SD et le type de carte SD accepté dépendent du modèle de votre 3DS. Plus d'informations peuvent être trouvées sur la [page officielle de l'assistance de Nintendo](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card). Notez que sur les consoles New 3DS et New 3DS XL, vous aurez besoin d'un tournevis (JIS 00) pour accéder à la carte microSD, qui est située sous la coque arrière.
 
-La 3DS peut lire des cartes SD de n'importe quelle capacité (même celles supérieures à 32 Go), mais la carte doit être formatée en FAT32 (**pas** exFAT ou NTFS). Vous pouvez utiliser l'un des outils suivants pour formater votre carte SD, selon votre système d'exploitation : [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\)). Les cartes SD de plus de **128 Go** ne sont pas recommandées en raison de problèmes connus avec des thèmes personnalisés et des graphiques GBA/DS.
+Votre carte (micro)SD devrait se conformer aux exigences suivantes :
+
+- **Marque** : N'importe quelle grande marque (SanDisk, Samsung, Kingston, Lexar, PNY, etc.)
+  - Méfiez-vous des cartes SD contrefaites ou d'imitation (par ex. Memory SD, PRO PLUS, SanDian, Extreme Pro), particulièrement celles achetées depuis des places de marché en ligne comme AliExpress. Voir [ici](https://www.flashcarts.net/microsd-fakes) pour un guide sur comment repérer les fausses cartes SD. Utiliser une carte SD contrefaite ou d'imitation en résultera probablement des dysfonctionnements, ou même d'une **perte de données** !
+- **Capacité** : Entre 2 Go et 128 Go (inclus)
+  - Ces cartes seront étiquetées SD (<= 2 Go), SDHC (4 Go - 32 Go), ou SDXC (64 Go et +)
+  - Les cartes plus petites que 2 Go sont insuffisantes, ce qui est dû à la taille minimum d'une sauvegarde de la NAND (autour de 1 Go), qui est réalisée à la fin de ce guide par mesure de sécurité
+  - Les cartes de 200 Go ou plus fonctionneront quand même, mais ne sont pas recommandées en raison de possibles problèmes avec les graphismes DS/GBA et les thèmes personnalisés
+- **Vitesse** : N'importe
+  - Actuellement, les cartes les moins chères en vente sont les **Class 10** (par ex. SanDisk Ultra). Des cartes plus rapides sont acceptables, mais la 3DS ne pourra pas tirer parti de leur vitesse
+- **Format** : FAT32 avec MBR
+  - Les cartes de 32 Go ou moins devraient être déjà formatées de cette manière, tandis que les cartes SD plus grandes devront être manuellement formatées : [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+
+Pour les consoles qui utilisent une carte SD grand-format, une carte microSD dans un adaptateur pour carte SD fonctionnera de la même manière.
 
 ::: info
 
@@ -54,15 +67,9 @@ Il est fortement recommandé de **n'utiliser qu'une seule carte SD** avec une co
 
 :::
 
-::: warning
-
-Pour suivre ce guide, vous aurez besoin d'une carte SD d'une capacité d'au moins **2 Go**.
-
-:::
-
 ::: info
 
-Si vous le souhaitez, vous pouvez vérifier que votre carte SD ne contient aucune erreur avant de suivre ce guide à l'aide de [H2testw (Windows)](h2testw-\(windows\)), [F3 (Linux)](f3-\(linux\)), ou [F3XSwift (Mac)](f3xswift-\(mac\)).
+Si vous le souhaitez, vous pouvez vérifier si votre carte SD comporte des erreurs/est une imitation avant de suivre ce guide en utilisant [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), ou [F3XSwift (Mac)](f3xswift-\(mac\)).
 
 :::
 
@@ -72,9 +79,9 @@ Si vous le souhaitez, vous pouvez vérifier que votre carte SD ne contient aucun
 
 :::details Risques potentiels (Décharge de responsabilité)
 
-En hackant votre console, vous la soumettez à un risque (très faible, mais pas inexistant) de brick (console inutilisable). _**Un placement de fichier incorrect ne brickera PAS votre console**_, mais délibérément ignorer des instructions le peut.
+En moddant votre console, vous la soumettez à un risque (très faible, mais non nul) d'être brickée (console inutilisable). _**Un placement de fichier incorrect ne brickera PAS votre console**_, mais délibérément ignorer des instructions le peut.
 
-En bref, le hack de votre console est sûr, mais _**vous seul êtes responsable**_ en cas de problème.
+En bref, modder votre console est sans danger, mais _**vous seul êtes responsable**_ si quelque chose tourne mal.
 
 :::
 

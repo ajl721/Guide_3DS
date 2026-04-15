@@ -12,7 +12,7 @@ These instructions are only valid for the "Installing boot9strap (SSLoth-Browser
 
 :::details Red/purple/pink and white screen after running Browserhax
 
-This likely indicates that you already have custom firmware. You should [check for CFW](checking-for-cfw).
+Cela indique que vous avez probablement déjà un custom firmware. You should [check for CFW](checking-for-cfw).
 
 :::
 
@@ -65,14 +65,14 @@ The SSLoth proxy was incorrectly configured. Re-do the SSLoth section on the pag
 Follow these steps in order:
 
 1. Lancez les Paramètres de la console
-2. Navigate to `Internet Settings` -> `Connection Settings`
-3. Click on your network connection slot and navigate to `Change Settings` -> `Next Page (right arrow)` -> `Proxy Settings`
-4. Set "Proxy Settings" to "No"
-5. Click OK, then click Save
-6. When prompted, click "Test" to perform the connection test
-   - The test should succeed
-7. Click "OK" to continue
-8. Appuyez deux fois sur « Retour », puis « Fermer » pour revenir au Menu HOME
+2. Naviguez vers `Paramètres Internet` -> `Paramètres de connexion`
+3. Cliquez sur votre emplacement de connexion réseau et naviguez vers `Modifier` -> `Page suivante (flèche à droite)` -> \`Serveur proxy"
+4. Réglez "Serveur proxy" sur "Non"
+5. Cliquez sur OK, puis sur Sauvegarder
+6. Lorsque vous y êtes invité, cliquez sur "Tester" pour effectuer le test de connexion
+   - Le test devrait réussir
+7. Cliquez sur "OK" pour continuer
+8. Appuyez deux fois sur « Retour », puis « Fermer » pour retourner au menu HOME
 9. Open the Internet Browser once
 10. If prompted about a system update, press OK
     - This won't actually update the system

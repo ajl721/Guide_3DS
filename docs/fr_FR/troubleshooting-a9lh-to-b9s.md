@@ -1,6 +1,6 @@
-# Troubleshooting (A9LH to B9S)
+# Dépannage (A9LH vers B9S)
 
-This page offers troubleshooting advice for commonly encountered issues with the "A9LH to B9S" page. If you are unable to solve your issue with the advice on this page, please join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) and describe your issue, including what you have already tried.
+Cette page offre des conseils de dépannage pour les problèmes rencontrés couramment avec la page "A9LH vers B9S". If you are unable to solve your issue with the advice on this page, please join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) and describe your issue, including what you have already tried.
 
 ## Issues with SafeB9SInstaller
 
@@ -14,7 +14,7 @@ This page offers troubleshooting advice for commonly encountered issues with the
 
 ::: tip
 
-Go back to [A9LH to B9S](a9lh-to-b9s)
+Retourner à [A9LH vers B9S](a9lh-to-b9s)
 
 :::
 

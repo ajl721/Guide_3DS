@@ -28,9 +28,9 @@ If your console is not on those firmwares, it likely indicates that you already 
 
 There is an issue with your `otherapp.bin` file (it is missing, misplaced, or corrupted). Download the latest release of [universal-otherapp](https://github.com/TuxSH/universal-otherapp/releases/latest) and place it on the root of your SD card.
 
-You may also have the wrong Soundhax file for your console, region and version. Verify that your console details are correct and redownload your Soundhax file from [here](http://soundhax.com), then place it on the root of your SD card, replacing the existing one.
+You may also have the wrong Soundhax file for your console, region and version. Vérifiez que les détails de votre console sont corrects et retéléchargez votre fichier Soundhax à partir d'[ici](http://soundhax.com), puis placez-le à la racine de votre carte SD, en remplaçant celui existant.
 
-If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. If the number before the letter is 4 or lower (e.g. 11.3.0-**4**U), replace the Soundhax file on the root of your SD card with the one from [here](http://soundhax.686178.xyz/frankenfirm.html?crash).
+If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. Si le nombre avant la lettre est de 4 ou moins (par ex. 11.3.0-**4**U), remplacez le fichier Soundhax à la racine de votre carte SD par celui de [here](http://soundhax.686178.xyz/frankenfirm.html?crash).
 
 If none of these fix your issue, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
 
@@ -38,9 +38,9 @@ If none of these fix your issue, join [Nintendo Homebrew on Discord](https://dis
 
 :::details "Could not play"
 
-You have the wrong Soundhax file for your console, region and version. Verify that your console details are correct and redownload your Soundhax file from [here](http://soundhax.com), then place it on the root of your SD card, replacing the existing one.
+You have the wrong Soundhax file for your console, region and version. Vérifiez que les détails de votre console sont corrects et retéléchargez votre fichier Soundhax à partir d'[ici](http://soundhax.com), puis placez-le à la racine de votre carte SD, en remplaçant celui existant.
 
-If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. If the number before the letter is 3 or lower (e.g. 11.3.0-**0**U), replace the Soundhax file on the root of your SD card with the one from [here](http://soundhax.686178.xyz/frankenfirm.html?unplayable).
+If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. Si le nombre avant la lettre est de 3 ou moins (par ex. 11.3.0-**0**U), remplacez le fichier Soundhax à la racine de votre carte SD par celui de [here](http://soundhax.686178.xyz/frankenfirm.html?unplayable).
 
 If none of these fix your issue, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
 

@@ -24,7 +24,7 @@ Se você não quer um destes aplicativos, você pode removê-los depois de concl
 
 Todos os aplicativos instalados neste guia são de código aberto. Se você está interessado em ver como eles funcionam, ou gostaria de deixar uma estrela para mostrar sua apreciação, seu código-fonte está vinculado aqui:
 
-- [FBI](https://github.com/lifehackerhansol/FBI)
+- [FBI](https://github.com/nh-server/FBI-NH)
 - [Homebrew Launcher Loader](https://github.com/PabloMK7/homebrew_launcher_dummy)
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS)
 - [Checkpoint](https://github.com/bernardogiordano/checkpoint/releases)

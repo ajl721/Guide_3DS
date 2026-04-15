@@ -35,7 +35,7 @@ The steps below can be attempted in any order, but are listed from least to most
 1. Power off your console, remove the SD card, re-insert it, then power on your console.
 2. Power off your console, eject the game cartridge if inserted, power on your console, then wait up to ten minutes. If your console boots within ten minutes, the issue has been fixed and is unlikely to reoccur
 3. Rename the `Nintendo 3DS` folder on your SD card to `Nintendo 3DS_BACKUP`, then attempt to boot. If your console successfully boots, there is some issue within your `Nintendo 3DS` folder. Try clearing HOME Menu extdata:
-   - Navigate to `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/`
+   - Naviguez vers `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/`
    - Delete the corresponding folder for your 3DS region:
      - **EUR Region**: `00000098`
      - **JPN Region**: `00000082`
@@ -72,7 +72,7 @@ There are a number of reasons as to why this could be happening. In any case, th
 ARM11 exception handlers are disabled, or custom firmware is not installed. Try enabling ARM11 exception handlers:
 
 - Éteignez votre console
-- Hold (Select)
+- Maintenez (Select)
 - Power on your console, while still holding (Select)
 - If the "Disable ARM11 exception handlers" box is checked, uncheck it
 
@@ -94,7 +94,7 @@ If this is the case, attempt the steps below, which are listed from easiest to h
 
 :::details Blue "BOOTROM ERROR" screen
 
-Your console is likely hard-bricked. You will need to buy an ntrboot flashcart to reinstall boot9strap in order to attempt to fix your console. This may also indicate a hardware issue that cannot be fixed. In any case, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
+Your console is likely hard-bricked. You will need to buy an ntrboot flashcart to reinstall boot9strap in order to attempt to fix your console. Cela peut également indiquer un problème matériel qui ne peut pas être résolu. In any case, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
 
 - It is also possible that someone has set a boot-time splash screen that just looks like a brick. Try leaving your console powered on, waiting on the blue screen, for five minutes.
 
@@ -112,14 +112,14 @@ Please take a photo of the error and join [Nintendo Homebrew on Discord](https:/
 
 1. Download the latest release of [TWLFix-CFW](https://github.com/MechanicalDragon0687/TWLFix-CFW/releases/latest) (the `.3dsx` file)
 2. Éteignez votre console
-3. Create a folder named `3ds` on the root of your SD card if it does not already exist
+3. Créez un dossier nommé `3ds` à la racine de votre carte SD si celui-ci n'existe pas
 4. Copy `TWLFix-CFW.3dsx` to the `/3ds/` folder on your SD card
 5. Réinsérez votre carte SD dans votre console
 6. Open the Homebrew Launcher
 7. Launch TWLFix-CFW from the list of homebrew
 8. Press (A) to uninstall the broken TWL titles
 9. Press (Start) to reboot the console
-10. Update your console by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
+10. Mettez à jour votre console en vous rendant dans les Paramètres de la console, puis "Autres paramètres", puis tout à droite sur l'option "Mise à jour"
     - The update will see that the essential TWL titles have been uninstalled, and will redownload and reinstall them
 11. Once the update is complete, tap "OK" to reboot the console
 
@@ -127,7 +127,7 @@ Please take a photo of the error and join [Nintendo Homebrew on Discord](https:/
 
 :::details GBA Virtual Console and/or Safe Mode functionality is broken
 
-Your console is running Luma3DS 6.6 or older, likely via arm9loaderhax. You should follow [A9LH to B9S](a9lh-to-b9s) to update your console to a modern custom firmware environment.
+Your console is running Luma3DS 6.6 or older, likely via arm9loaderhax. Vous devriez suivre [A9LH vers B9S](a9lh-to-b9s) pour mettre à jour votre console vers un environnement de custom firmware moderne.
 
 :::
 
@@ -137,9 +137,9 @@ This can occur after a CTRTransfer or region change on Old 3DS / 2DS. Follow the
 
 :::
 
-:::details Exception screen when booting/loading an application
+:::details Écran d'exception lors du démarrage/chargement d'une application
 
-Look for your exception screen in [this page](https://wiki.hacks.guide/wiki/3DS:Error_screens/Luma3DS_exception_screen).
+Recherchez votre écran d'exception sur [cette page](https://wiki.hacks.guide/wiki/3DS:Error_screens/Luma3DS_exception_screen).
 If you weren't able to find your error or the instructions didn't work, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for further assistance.
 
 :::
@@ -162,7 +162,7 @@ Join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance, 
 
 1. Éteignez votre console
 2. Insérez votre carte SD dans votre ordinateur
-3. Navigate to the `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/` folder on your SD card
+3. Naviguez vers le dossier `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/` sur votre carte SD
 4. Delete the corresponding folder for your 3DS region:
    - **EUR Region**: `00000098`
    - **JPN Region**: `00000082`
@@ -178,7 +178,7 @@ Join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance, 
 
 1. Éteignez votre console
 2. Insérez votre carte SD dans votre ordinateur
-3. Navigate to the `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/` folder on your SD card
+3. Naviguez vers le dossier `/Nintendo 3DS/<ID0>/<ID1>/extdata/00000000/` sur votre carte SD
 4. Delete the corresponding folder for your 3DS region:
    - **EUR Region**: `000002ce`
    - **JPN Region**: `000002cc`

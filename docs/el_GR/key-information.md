@@ -44,9 +44,22 @@
 
 :::
 
-Η θέση της υποδοχής για κάρτες SD και ο αποδεκτός τύπος της κάρτας SD εξαρτώνται από το μοντέλο του 3DS σας. Μπορείτε να βρείτε περισσότερες πληροφορίες στην [επίσημη σελίδα υποστήριξης της Nintendo](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card).
+Η θέση της υποδοχής για κάρτες SD και ο αποδεκτός τύπος της κάρτας SD εξαρτώνται από το μοντέλο του 3DS σας. Μπορείτε να βρείτε περισσότερες πληροφορίες στην [επίσημη σελίδα υποστήριξης της Nintendo](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card). Note that on New 3DS and New 3DS XL consoles, you will need a screwdriver (JIS 00) to access the microSD card, which is located under the backplate.
 
-Το 3DS μπορεί να διαβάσει κάρτες SD οποιασδήποτε χωρητικότητας (ακόμα κι αν είναι μεγαλύτερες των 32GB), αλλά η κάρτα πρέπει να έχει διαμορφωθεί ως FAT32 (**όχι** exFAT ή NTFS). Μπορείτε να χρησιμοποιήσετε κάποιο από τα εξής εργαλεία για να διαμορφώσετε την κάρτα SD σας, ανάλογα με το λειτουργικό σας σύστημα: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\)). Δεν προτείνονται κάρτες SD μεγαλύτερες των **128GB** λόγω γνωστών θεμάτων με τα προσαρμοσμένα θέματα και τα γραφικά GBA/DS.
+Your (micro)SD card should conform to the following requirements:
+
+- **Brand**: Any name brand (SanDisk, Samsung, Kingston, Lexar, PNY, etc.)
+  - Beware of fake or illegitimate SD cards (e.g. Memory SD, PRO PLUS, SanDian, Extreme Pro), particularly those purchased from online marketplaces like AliExpress. See [here](https://www.flashcarts.net/microsd-fakes) for a guide on spotting fake SD cards. Using a fake or illegitimate SD card is very likely to result in things not working, or even **data loss**!
+- **Capacity**: Between 2GB and 128GB (inclusive)
+  - These cards will be labelled SD (<=2GB), SDHC (4GB-32GB), or SDXC (64GB+)
+  - Cards smaller than 2GB are insufficient due to the minimum size of a NAND dump (around 1GB), which is made at the end of this guide as a safety measure
+  - Cards 200GB or larger will still work, but are not recommended due to possible issues with DS/GBA graphics and custom themes
+- **Speed**: Any
+  - Currently, the cheapest cards on the market are **Class 10** (e.g. SanDisk Ultra). Faster cards are acceptable, but the 3DS cannot take advantage of their speed
+- **Format**: FAT32 with MBR
+  - Cards that are 32GB or smaller should already be formatted in this way, while larger SD cards will have to be manually formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+
+For consoles that use a full-size SD card, a microSD card in an SD card adapter will work identically.
 
 ::: info
 
@@ -54,15 +67,9 @@
 
 :::
 
-::: warning
-
-Για να ακολουθήσετε αυτόν τον οδηγό, θα χρειαστείτε μια κάρτα SD με χωρητικότητα τουλάχιστον **2GB**.
-
-:::
-
 ::: info
 
-Εάν θέλετε, μπορείτε να ελέγξετε την κάρτα SD σας για σφάλματα, πριν ακολουθήσετε αυτόν τον οδηγό, με το [H2testw (Windows)](h2testw-\(windows\)), [F3 (Linux)](f3-\(linux\)) ή το [F3XSwift (Mac)](f3xswift-\(mac\)).
+If you want, you can check your SD card for errors/legitimacy before following this guide using [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), or [F3XSwift (Mac)](f3xswift-\(mac\)).
 
 :::
 

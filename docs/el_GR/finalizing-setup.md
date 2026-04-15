@@ -24,7 +24,7 @@
 
 Όλες οι εφαρμογές που σας βοηθά να εγκαταστήσετε ο παρών οδηγός είναι ανοικτού κώδικα. Εάν σας ενδιαφέρει να δείτε πώς λειτουργούν ή θέλετε να αφήσετε μια θετική αξιολόγηση για να δείξετε την εκτίμησή σας, θα βρείτε συνδέσμους για τον πηγαίο κώδικά τους στην παρακάτω λίστα:
 
-- [FBI](https://github.com/lifehackerhansol/FBI)
+- [FBI](https://github.com/nh-server/FBI-NH)
 - [Homebrew Launcher Loader](https://github.com/PabloMK7/homebrew_launcher_dummy)
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS)
 - [Checkpoint](https://github.com/bernardogiordano/checkpoint/releases)

@@ -44,9 +44,22 @@ A legtöbb esetben követheted ezt az útmutatót egészen addig, amíg képes v
 
 :::
 
-Az SD kártya slot helye és az SD kártya típusa amit elfogad a 3DS modelledtől függ. További infromációk találhatók erről a [Nintendo hivatalos támogatási oldalán](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card).
+Az SD kártya slot helye és az SD kártya típusa amit elfogad a 3DS modelledtől függ. További infromációk találhatók erről a [Nintendo hivatalos támogatási oldalán](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card). Ne feledd, hogy a New 3DS és a New 3DS XL konzoloknál szükséged van egy csavarhúzóra (JIS 00) a microSD kártyához hozzáféréshez, mert az a hátlap alatt található.
 
-A 3DS bármilyen kapacitású SD kártyát tud olvasni (még akkor is, ha nagyobb, mint 32GB), de a kártyának FAT32-re kell formatálva lennie (**nem** exFAT vagy NTFS). A következő eszközöket használhatod az SD kártyád formázására, az operációs rendszeredtől függően: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\)). **128GB**-nál nagyobb SD kártyák nem javasoltak az ismert problémák miatt az egyedi témákkal és a GBA grafikával.
+Az SD/microSD kártyádnak a következő követelményeknek kell megfelelnie:
+
+- **Márka**: Bármilyen ismert márka (SanDisk, Samsung, Kingston, Lexar, PNY, stb.)
+  - Óvakodj a fake vagy illegitim SD kártyáktól (pl. Memory SD, PRO PLUS, SanDian, Extreme Pro), főleg azoktól, amit online piactereken vásárolsz, mint például az AliExpress. [Itt](https://www.flashcarts.net/microsd-fakes) találhatsz egy útmutatót a kamu kártyák kiszúrásához. A fake vagy illegitim SD kártyák használata könnyen vezethet a dolgok nem működéséhez és még **adatvesztéshez** is!
+- **Kapacitás**: 2 GB és 128 GB között (határokat beleérve)
+  - Ezek a kártyák a következőképpen feliratozottak: SD (<=2 GB), SDHC (4 GB-32 GB), vagy SDXC (64 GB+)
+  - A 2 GB-nál kisebb kártyák nem megfelelőek, a NAND mentés minimum mérete miatt (kb. 1 GB), ami ennek az útmutatónak végén készül, mint biztonsági lépés
+  - 200 GB vagy nagyobb kártyák működni fognak, de nem ajánlottak a lehetséges hibák amit okozhatnak a DS/GBA grafikában és az egyedi témákban
+- **Sebesség**: Bármilyen
+  - Jelenleg a legolcsóbb kártya a piacon **Class 10** (pl. SanDisk Ultra). Gyorsabb kártyák elfogadhatók, de a 3DS nem tudja kihasználni a nagyobb sebességük
+- **Formátum**: FAT32 MBR-rel
+  - A 32 GB vagy kisebb kártyák eleve erre vannak formázvam míg a nagyobb SD kártyákat valószínűleg maniálisan kell formázni: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+
+A teljes méretű SD kártyát használó konzolok esetében egy microSD kárty egy adapterben azzal egyenértékűen működik.
 
 ::: info
 
@@ -54,15 +67,9 @@ Erősen ajánlot, hogy **csak egy SD kártyát használj** bármikor a konzolhoz
 
 :::
 
-::: warning
-
-Ahhoz, hogy követhesd ezt az útmutatót szükséged van egy legalább **2GB** kapacitású SD kártyára.
-
-:::
-
 ::: info
 
-Ha szeretnéd, leellenőrizheted az SD kártyádat valamelyik programmal az alábbiak közül: [H2testw (Windows)](h2testw-\(windows\)), [F3 (Linux)](f3-\(linux\)), vagy [F3XSwift (Mac)](f3xswift-\(mac\)).
+Ha szeretnéd, ellenőrizheted az SD kártyádat hibákra/megfelelőségre mielőtt követed ezt az útmutatót a [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), vagy [F3XSwift (Mac)](f3xswift-\(mac\)) segtségével.
 
 :::
 

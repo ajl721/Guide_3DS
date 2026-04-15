@@ -18,13 +18,20 @@ Prima di iniziare questa guida, verificheremo se un custom firmware è già inst
 ### Sezione I - Controllo del CFW
 
 1. Spegni la tua console
-2. Premi il pulsante (Select)
-3. Accendi la tua console continuando a tenere premuto il pulsante (Select)
-4. Se non si apre un menu alternativo (la console avvia normalmente il menu HOME), puoi procedere alla sezione successiva
+2. Inserisci la scheda SD nella tua console
+3. Premi il pulsante (Select)
+4. Accendi la tua console continuando a tenere premuto il pulsante (Select)
+5. Se non si apre un menu alternativo (la console avvia normalmente il menu HOME), puoi procedere alla sezione successiva
 
 ::: warning
 
 Se vedi la schermata di configurazione di Luma3DS o qualunque altro menu alternativo (ad esempio GodMode9, Decrypt9WIP), FERMATI - hai già un custom firmware! Prosegui da [qui](checking-for-cfw#what-to-do-next).
+
+:::
+
+::: warning
+
+Se, all'avvio della console nel menu HOME, appare l'errore "Impossibile rilevare una scheda SD", assicurati che la tua scheda SD sia formattata correttamente: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
 
 :::
 

@@ -18,13 +18,20 @@ head:
 ### Ενότητα I - Έλεγχος για CFW
 
 1. Απενεργοποιήστε την κονσόλα σας
-2. Πατήστε παρατεταμένα το (Select)
-3. Ενεργοποιήστε την κονσόλα σας κρατώντας παράλληλα πατημένο το κουμπί (Select)
-4. Εάν δεν βλέπετε κάποιο προσαρμοσμένο μενού (η κονσόλα σας εκκινείται απλώς στο μενού «HOME»), μπορείτε να προχωρήσετε στην επόμενη ενότητα
+2. Insert your SD card into your console
+3. Πατήστε παρατεταμένα το (Select)
+4. Ενεργοποιήστε την κονσόλα σας κρατώντας παράλληλα πατημένο το κουμπί (Select)
+5. Εάν δεν βλέπετε κάποιο προσαρμοσμένο μενού (η κονσόλα σας εκκινείται απλώς στο μενού «HOME»), μπορείτε να προχωρήσετε στην επόμενη ενότητα
 
 ::: warning
 
 Εάν βλέπετε την οθόνη ρυθμίσεων του Luma3DS ή οποιοδήποτε άλλο προσαρμοσμένο μενού (π.χ. GodMode9, Decrypt9WIP), ΣΤΑΜΑΤΗΣΤΕ· διαθέτετε ήδη custom firmware! Συνεχίστε από [εδώ](checking-for-cfw#what-to-do-next).
+
+:::
+
+::: warning
+
+If, when the console boots to the HOME Menu, you see the error "Could not detect an SD card", ensure that your SD card is properly formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
 
 :::
 

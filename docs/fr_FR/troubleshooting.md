@@ -22,7 +22,7 @@ If you're unable to fix your issue, ask for help at [Nintendo Homebrew on Discor
 
 - [Finalizing Setup](troubleshooting-finalizing-setup)
 
-- [A9LH to B9S](troubleshooting-a9lh-to-b9s)
+- [A9LH vers B9S](troubleshooting-a9lh-to-b9s)
 
 - [Updating B9S](troubleshooting-updating-b9s)
 
