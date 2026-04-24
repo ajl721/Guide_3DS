@@ -2,7 +2,7 @@
 
 ::: tip
 
-Si votre linker est déjà préflashé avec ntrboot (ou que vous avez déjà flashé ntrboot sur votre linker), vous pouvez passer directement à [Installation de boot9strap (ntrboot)](installing-boot9strap-\(ntrboot\)) pour les instructions sur comment l'utiliser.
+Si votre linker est déjà préflashé avec ntrboot (ou que vous avez déjà flashé ntrboot sur votre linker), vous pouvez passer directement à [Installation de boot9strap (ntrboot)](installing-boot9strap-(ntrboot)) pour les instructions sur comment l'utiliser.
 
 :::
 
@@ -71,7 +71,7 @@ Cette méthode ne nécessite que votre 3DS non hackée et non modifiée et un li
 
 ::: tip
 
-Continuer vers [Flasher ntrboot (Une seule 3DS)](flashing-ntrboot-\(3ds-single-system\))
+Continuer vers [Flasher ntrboot (Une seule 3DS)](flashing-ntrboot-(3ds-single-system))
 
 :::
 
@@ -83,7 +83,7 @@ Cette méthode nécessite un accès temporaire à un second périphérique de la
 
 ::: tip
 
-Continuer vers [Flasher ntrboot (plusieurs 3DS)](flashing-ntrboot-\(3ds-multi-system\))
+Continuer vers [Flasher ntrboot (plusieurs 3DS)](flashing-ntrboot-(3ds-multi-system))
 
 :::
 
@@ -95,7 +95,7 @@ Cette méthode nécessite l'accès temporaire à une Nintendo DS ou une Nintendo
 
 ::: tip
 
-Continuer vers [Flasher ntrboot (NDS)](flashing-ntrboot-\(nds\))
+Continuer vers [Flasher ntrboot (NDS)](flashing-ntrboot-(nds))
 
 :::
 
@@ -107,6 +107,6 @@ Cette méthode nécessite l'accès temporaire à une Nintendo DSi qui est compat
 
 ::: tip
 
-Continuer vers [Flasher ntrboot (DSi)](flashing-ntrboot-\(dsi\))
+Continuer vers [Flasher ntrboot (DSi)](flashing-ntrboot-(dsi))
 
 :::

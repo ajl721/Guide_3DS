@@ -44,22 +44,22 @@
 
 :::
 
-Η θέση της υποδοχής για κάρτες SD και ο αποδεκτός τύπος της κάρτας SD εξαρτώνται από το μοντέλο του 3DS σας. Μπορείτε να βρείτε περισσότερες πληροφορίες στην [επίσημη σελίδα υποστήριξης της Nintendo](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card). Note that on New 3DS and New 3DS XL consoles, you will need a screwdriver (JIS 00) to access the microSD card, which is located under the backplate.
+Η θέση της υποδοχής για κάρτες SD και ο αποδεκτός τύπος της κάρτας SD εξαρτώνται από το μοντέλο του 3DS σας. Μπορείτε να βρείτε περισσότερες πληροφορίες στην [επίσημη σελίδα υποστήριξης της Nintendo](https://en-americas-support.nintendo.com/app/answers/detail/a_id/271/~/how-to-insert-an-sd-card-or-microsd-card). Σημειώστε ότι για τις κονσόλες New 3DS και New 3DS XL, θα χρειαστείτε κατσαβίδι (JIS 00) για να αποκτήσετε πρόσβαση στην κάρτα microSD, η οποία βρίσκεται κάτω από το πίσω κάλυμμα.
 
-Your (micro)SD card should conform to the following requirements:
+Η κάρτα (micro)SD σας θα πρέπει να πληροί τις παρακάτω απαιτήσεις:
 
-- **Brand**: Any name brand (SanDisk, Samsung, Kingston, Lexar, PNY, etc.)
-  - Beware of fake or illegitimate SD cards (e.g. Memory SD, PRO PLUS, SanDian, Extreme Pro), particularly those purchased from online marketplaces like AliExpress. See [here](https://www.flashcarts.net/microsd-fakes) for a guide on spotting fake SD cards. Using a fake or illegitimate SD card is very likely to result in things not working, or even **data loss**!
-- **Capacity**: Between 2GB and 128GB (inclusive)
-  - These cards will be labelled SD (<=2GB), SDHC (4GB-32GB), or SDXC (64GB+)
-  - Cards smaller than 2GB are insufficient due to the minimum size of a NAND dump (around 1GB), which is made at the end of this guide as a safety measure
-  - Cards 200GB or larger will still work, but are not recommended due to possible issues with DS/GBA graphics and custom themes
-- **Speed**: Any
-  - Currently, the cheapest cards on the market are **Class 10** (e.g. SanDisk Ultra). Faster cards are acceptable, but the 3DS cannot take advantage of their speed
-- **Format**: FAT32 with MBR
-  - Cards that are 32GB or smaller should already be formatted in this way, while larger SD cards will have to be manually formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+- **Μάρκα**: Οποιαδήποτε επώνυμη μάρκα (SanDisk, Samsung, Kingston, Lexar, PNY κ.λπ.)
+  - Προσοχή σε πλαστές ή μη αυθεντικές κάρτες SD (π.χ. Memory SD, PRO PLUS, SanDian, Extreme Pro), ιδιαίτερα σε αυτές που διατίθενται σε διαδικτυακές αγορές, όπως το AliExpress. Δείτε [εδώ](https://www.flashcarts.net/microsd-fakes) έναν οδηγό για τον εντοπισμό πλαστών καρτών SD. Η χρήση μιας πλαστής ή μη αυθεντικής κάρτας SD είναι πολύ πιθανό να οδηγήσει σε δυσλειτουργίες ή ακόμα και **απώλεια δεδομένων**!
+- **Χωρητικότητα**: Από 2GB έως και 128GB
+  - Αυτές οι κάρτες θα φέρουν τη σήμανση SD (<=2GB), SDHC (4GB-32GB) ή SDXC (64GB+)
+  - Οι κάρτες που είναι μικρότερες από 2GB δεν επαρκούν λόγω του ελάχιστου μεγέθους της αποτύπωσης της NAND (περίπου 1GB), η οποία πραγματοποιείται στο τέλος αυτού του οδηγού ως μέτρο ασφαλείας
+  - Οι κάρτες που είναι μεγαλύτερες από 200GB θα λειτουργούν, αλλά δεν προτείνονται λόγω πιθανών ζητημάτων με τα γραφικά DS/GBA και τα προσαρμοσμένα θέματα
+- **Ταχύτητα**: Οποιαδήποτε
+  - Αυτήν τη στιγμή, οι φθηνότερες κάρτες της αγοράς είναι οι **Class 10** (π.χ. SanDisk Ultra). Τυχόν ταχύτερες κάρτες είναι αποδεκτές, αλλά το 3DS δεν μπορεί να αξιοποιήσει τις ταχύτητές τους
+- **Μορφή**: FAT32 με MBR
+  - Οι κάρτες που είναι 32GB ή μικρότερες θα πρέπει να είναι ήδη διαμορφωμένες με αυτόν τον τρόπο, ενώ οι μεγαλύτερες κάρτες SD θα πρέπει να διαμορφωθούν χειροκίνητα: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
-For consoles that use a full-size SD card, a microSD card in an SD card adapter will work identically.
+Για τις κονσόλες που χρησιμοποιούν κάρτα SD πλήρους μεγέθους, μια κάρτα microSD μαζί με έναν προσαρμογέα κάρτας SD θα λειτουργεί πανομοιότυπα.
 
 ::: info
 
@@ -69,7 +69,7 @@ For consoles that use a full-size SD card, a microSD card in an SD card adapter 
 
 ::: info
 
-If you want, you can check your SD card for errors/legitimacy before following this guide using [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), or [F3XSwift (Mac)](f3xswift-\(mac\)).
+Εάν θέλετε, μπορείτε να ελέγξετε την αυθεντικότητα της κάρτας SD σας ή να κάνετε σάρωση για σφάλματα πριν ακολουθήσετε αυτόν τον οδηγό, χρησιμοποιώντας τα [H2testw](h2testw-(windows))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-(linux)) ή [F3XSwift (Mac)](f3xswift-(mac)).
 
 :::
 
@@ -165,7 +165,7 @@ If you want, you can check your SD card for errors/legitimacy before following t
 
 :::
 
-Εάν χρησιμοποιείτε υπολογιστή με Windows, οι επεκτάσεις αρχείων ενδέχεται να αποκρύπτονται από προεπιλογή, καθιστώντας πιο δύσκολη την εύρεση των αρχείων που ψάχνετε. Για να ενεργοποιήσετε τις επεκτάσεις αρχείων, ακολουθήστε [αυτές τις οδηγίες](file-extensions-\(windows\)).
+Εάν χρησιμοποιείτε υπολογιστή με Windows, οι επεκτάσεις αρχείων ενδέχεται να αποκρύπτονται από προεπιλογή, καθιστώντας πιο δύσκολη την εύρεση των αρχείων που ψάχνετε. Για να ενεργοποιήσετε τις επεκτάσεις αρχείων, ακολουθήστε [αυτές τις οδηγίες](file-extensions-(windows)).
 
 ::::
 

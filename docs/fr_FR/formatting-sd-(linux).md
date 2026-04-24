@@ -6,15 +6,15 @@ Ceci est une section complémentaire sur comment formater une carte SD pour êtr
 
 Si la carte SD est déjà reconnue par la 3DS, ce guide n'est pas nécessaire.
 
-Cette page est uniquement destinée aux utilisateurs de Linux. Si vous n'êtes pas sur Linux, jetez un œil aux pages [Formater la SD (Windows)](formatting-sd-\(windows\)) ou [Formater la SD (Mac)](formatting-sd-\(mac\)).
+Cette page est uniquement destinée aux utilisateurs de Linux. Si vous n'êtes pas sur Linux, jetez un œil aux pages [Formater la SD (Windows)](formatting-sd-(windows)) ou [Formater la SD (Mac)](formatting-sd-(mac)).
 
 ## Instructions
 
-1. Assurez-vous que votre carte SD **n'est pas** insérée
+1. Assurez-vous que votre carte SD n'est **pas** insérée
 2. Lancez le terminal Linux
 3. Tapez `watch "lsblk"`
 4. Insérez votre carte SD dans votre ordinateur
-5. Lisez le résultat. Elle devrait ressembler à quelque chose comme ça :
+5. Lisez le résultat. Il devrait ressembler à quelque chose comme ça :
    ```
    NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
    mmcblk0     179:0    0   3,8G  0 disk

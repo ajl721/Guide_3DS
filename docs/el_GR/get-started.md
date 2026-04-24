@@ -18,7 +18,7 @@ head:
 ### Ενότητα I - Έλεγχος για CFW
 
 1. Απενεργοποιήστε την κονσόλα σας
-2. Insert your SD card into your console
+2. Εισαγάγετε την κάρτα SD στην κονσόλα σας
 3. Πατήστε παρατεταμένα το (Select)
 4. Ενεργοποιήστε την κονσόλα σας κρατώντας παράλληλα πατημένο το κουμπί (Select)
 5. Εάν δεν βλέπετε κάποιο προσαρμοσμένο μενού (η κονσόλα σας εκκινείται απλώς στο μενού «HOME»), μπορείτε να προχωρήσετε στην επόμενη ενότητα
@@ -31,7 +31,7 @@ head:
 
 ::: warning
 
-If, when the console boots to the HOME Menu, you see the error "Could not detect an SD card", ensure that your SD card is properly formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+Εάν, όταν η κονσόλα εκκινήσει στο μενού «HOME», δείτε το σφάλμα «Could not detect an SD card», βεβαιωθείτε ότι η κάρτα SD σας έχει διαμορφωθεί σωστά: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 :::
 
@@ -55,4 +55,4 @@ If, when the console boots to the HOME Menu, you see the error "Could not detect
 Διαφορετικά, διατίθενται μέθοδοι που λειτουργούν για όλες τις εκδόσεις, αλλά απαιτούν επιπλέον εξοπλισμό:
 
 1. [ntrboot](ntrboot) - απαιτεί συμβατή flashcart για DS
-2. [Εγκατάσταση του boot9strap (Hardmod)](installing-boot9strap-\(hardmod\)) - απαιτεί συγκόλληση
+2. [Εγκατάσταση του boot9strap (Hardmod)](installing-boot9strap-(hardmod)) - απαιτεί συγκόλληση

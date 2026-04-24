@@ -33,7 +33,7 @@ Dans cette section, vous verrez si les gâchettes (L) et (R) de votre console fo
 
 ::: warning
 
-Si la caméra n'est PAS apparue, vous ne pouvez pas suivre cette méthode. Si c'est le cas, suivez [Installation de boot9strap (MSET9)](installing-boot9strap-\(mset9\)) à la place.
+Si la caméra n'est PAS apparue, vous ne pouvez pas suivre cette méthode. Si c'est le cas, suivez [Installation de boot9strap (MSET9)](installing-boot9strap-(mset9)) à la place.
 
 :::
 

@@ -1,25 +1,25 @@
-1. Appuyez sur (HOME) pour faire apparaître le menu d’action
+1. Appuyez sur (Home) pour faire apparaître le menu d’actions
 2. Sélectionnez "Scripts..."
 3. Sélectionnez "GM9Megascript"
 4. Sélectionnez "Backup Options"
 5. Sélectionnez "SysNAND Backup"
 6. Appuyez sur (A) pour confirmer
    - Ce processus prendra un certain temps
-   - If you get an error, look for your issue in the [troubleshooting guide](troubleshooting-finalizing-setup.html)
+   - Si vous avez une erreur, recherchez votre problème dans le [guide de dépannage](troubleshooting-finalizing-setup.html)
 7. Appuyez sur (A) pour continuer
 8. Appuyez sur (B) pour revenir au menu principal
-9. Select "Exit"
+9. Sélectionnez "Exit"
 10. Appuyez (A) pour reverrouiller l'autorisation en écriture si vous y êtes invité
 11. Naviguez vers `[S:] SYSNAND VIRTUAL`
-12. Press (A) on `essential.exefs` to select it
+12. Appuyez sur (A) sur `essential.exefs` pour le sélectionner
 13. Sélectionnez "Copy to 0:/gm9/out"
-    - If you see "Destination already exists", press (A) on "Overwrite file(s)"
+    - Si vous voyez "Destination already exists", appuyez sur (A) sur "Overwrite file(s)"
 14. Appuyez sur (A) pour continuer
 15. Maintenez (R) appuyé et appuyez sur (Start) en même temps pour éteindre votre console
 16. Insérez votre carte SD dans votre ordinateur
-17. Copy `<date>_<serialnumber>_sysnand_##.bin`, `<date>_<serialnumber>_sysnand_##.bin.sha`, and `essential.exefs` from the `/gm9/out/` folder on your SD card to a safe location on your computer
-    - Copy these backups to multiple locations (such as online file storage, an external hard drive, etc.)
-    - These backups will save you from a brick and/or help you recover files from the NAND image if anything goes wrong in the future
-18. Delete `<date>_<serialnumber>_sysnand_##.bin` and `<date>_<serialnumber>_sysnand_##.bin.sha` from the `/gm9/out/` folder on your SD card after copying it
-    - The other backup files are negligible in size and may be kept on your SD card for ease of access
+17. Copiez `<date>_<serialnumber>_sysnand_##.bin`, `<date>_<serialnumber>_sysnand_##.bin.sha`, et `essentiel.exefs` depuis le dossier `/gm9/out/` sur votre carte SD vers un emplacement en sûreté sur votre ordinateur
+    - Copiez ces sauvegardes vers plusieurs emplacements (comme un stockage en ligne, un disque dur externe, etc.)
+    - Ces sauvegardes vous sauveront d'un brick et/ou vous aideront à récupérer des fichiers de l'image de la NAND si quelque chose se passe mal plus tard
+18. Supprimez `<date>_<serialnumber>_sysnand_##.bin` et `<date>_<serialnumber>_sysnand_##.bin.sha` du dossier `/gm9/out/` sur votre carte SD après l'avoir copié
+    - Les autres fichiers de sauvegarde sont négligeables en taille et peuvent être conservés sur votre carte SD pour la facilité d'accès
 19. Réinsérez votre carte SD dans votre console

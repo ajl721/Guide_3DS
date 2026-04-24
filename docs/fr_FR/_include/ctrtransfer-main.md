@@ -2,13 +2,13 @@
 2. S'il vous est demandé de créer une sauvegarde de fichiers essentiels ("essential files backup"), appuyez sur (A) pour la faire, puis appuyez sur (A) pour continuer lorsqu'elle est complétée
 3. Si vous êtes invité à corriger la date et l’heure RTC, appuyez sur (A) pour le faire, puis réglez la date et l’heure, puis appuyez sur (A) pour continuer
    - Notez que, si vous avez dû corriger la date et l'heure RTC, vous devrez corriger l'heure dans les Paramètres de la console aussi après ce guide
-4. Appuyez sur (HOME) pour faire apparaître le menu d’action
+4. Appuyez sur (Home) pour faire apparaître le menu d’actions
 5. Sélectionnez "Scripts..."
 6. Sélectionnez "ctrtransfer"
 7. Sélectionnez votre image de CTRTransfer téléchargée
    - Le script calculera le hachage de votre image pour vérifier qu'il est valide
 8. Quand toutes les vérifications seront complétées, appuyez sur (A) pour continuer
-9. Appuyez sur (A) pour déverrouiller en écriture sur la SysNAND (lvl2), puis entrez la combinaison de boutons donnée
+9. Appuyez sur (A) pour autoriser l'écriture sur votre SysNAND (lvl2), puis entrez la combinaison de boutons donnée
 10. Une fois le transfert terminé, appuyez sur (A) pour continuer
 11. Appuyez (A) pour reverrouiller l'autorisation en écriture si vous y êtes invité
 12. Appuyez sur (Start) pour redémarrer votre console

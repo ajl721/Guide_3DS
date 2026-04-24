@@ -86,7 +86,7 @@ Cela permet le dumping d'applications système et de titres numériques install�
 :::
 
 1. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
-2. Appuyez sur (HOME) pour faire apparaître le menu d’action
+2. Appuyez sur (Home) pour faire apparaître le menu d’actions
 3. Sélectionnez "Title Manager"
 4. Sélectionnez l'un des éléments suivants en fonction du type de titre que vous souhaitez extraire
    - **Titre installé par l'utilisateur**: `[A:] SD CARD`
@@ -106,7 +106,7 @@ Le jeu sera exporté vers le dossier `/gm9/out/` sur votre carte SD sous le nom 
 
 ::: info
 
-Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (HOME) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
+Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (Home) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
 
 :::
 
@@ -126,7 +126,7 @@ Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obte
 
 ::: info
 
-Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (HOME) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
+Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (Home) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
 
 :::
 

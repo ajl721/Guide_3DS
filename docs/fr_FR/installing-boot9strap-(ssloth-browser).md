@@ -2,7 +2,7 @@
 
 :::details Détails techniques (facultatif)
 
-Afin d'exploiter l'application du Navigateur Internet, nous devons contourner la vérification de sa version, qui est conçue pour interdire son utilisation sans mettre à jour la console sur la dernière version du système.
+Afin d'exploiter l'application Navigateur, nous devons contourner la vérification de sa version, qui est conçue pour interdire son utilisation sans mettre à jour la console sur la dernière version du système.
 
 Un serveur proxy public est disponible, qui, à l'aide de l'exploit SSLoth, permet de contourner cette vérification.
 
@@ -14,7 +14,7 @@ Pour des détails techniques sur les exploits que vous utiliserez sur cette page
 
 ## Notes de compatibilité
 
-SSLoth permet aux utilisateurs de consoles en version 11.13.0 et versions antérieures de contourner la vérification de la version du Navigateur Internet, permettant l'utilisation de new-browserhax ou old-browserhax (compatible avec les versions 11.4.0 à 11.13.0 dans toutes les régions), qui peuvent ensuite être utilisés conjointement avec universal-otherapp.
+SSLoth permet aux utilisateurs de consoles en version 11.13.0 et versions antérieures de contourner la vérification de la version du navigateur, permettant l'utilisation de new-browserhax ou old-browserhax (compatible avec les versions 11.4.0 à 11.13.0 dans toutes les régions), qui peuvent ensuite être utilisés conjointement avec universal-otherapp.
 
 ## Ce dont vous avez besoin
 
@@ -55,7 +55,7 @@ Dans cette section, vous copierez les fichiers nécessaires pour déclencher Bro
 
 ### Section II - SSLoth
 
-Dans cette section, vous allez modifier vos paramètres de connexion Internet pour utiliser un réseau proxy conçu pour contourner la vérification de la version du navigateur, lui permettant de fonctionner sans mettre à jour la console. Cela vous permettra d'accéder à la page Web d'exploit du Navigateur Internet dans la section suivante.
+Dans cette section, vous allez modifier vos paramètres de connexion Internet pour utiliser un réseau proxy conçu pour contourner la vérification de la version du navigateur, lui permettant de fonctionner sans mettre à jour la console. Cela vous permettra d'accéder à la page Web d'exploit du navigateur dans la section suivante.
 
 <!--@include: ./_include/addproxy.md -->
 
@@ -63,27 +63,27 @@ Dans cette section, vous allez modifier vos paramètres de connexion Internet po
 
 ### Section II - Lancement de SafeB9SInstaller
 
-Dans cette section, vous allez visiter la page Web d'exploit du Navigateur Internet, qui utilisera universal-otherapp pour lancer l'installateur de boot9strap (custom firmware).
+Dans cette section, vous allez visiter la page Web d'exploit du navigateur, qui utilisera universal-otherapp pour lancer l'installateur de boot9strap (custom firmware).
 
 1. Dans le menu HOME, appuyez simultanément sur les boutons L et R pour ouvrir l'appareil photo
-   - Si vous ne parvenez pas à ouvrir l'appareil photo, ouvrez le Navigateur Internet et saisissez manuellement l'URL (`https://zoogie.github.io/web/nbhax/`)
+   - Si vous ne parvenez pas à ouvrir l'appareil photo, ouvrez le navigateur et saisissez manuellement l'URL (`https://zoogie.github.io/web/nbhax/`)
 
 2. Touchez le bouton code QR et scannez [ce code QR](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fzoogie.github.io%2Fweb%2Fnbhax&qzone=1&margin=0&size=400x400&ecc=L)
 
-   - Lorsque vous voyez un panneau avec le code d'erreur `012-1511`, `032-1809`, ou `032-1820`, appuyez sur (A) pour autoriser la connexion
-   - Si vous rencontrez un crash ou un code d'erreur, [suivez ce guide de dépannage](troubleshooting-ssloth-browser)
+   - Si vous voyez une invite avec le code d'erreur `012-1511`, `032-1809`, ou `032-1820`, appuyez sur (A) pour autoriser la connexion
+   - Si vous avez un crash ou un code d'erreur différent, [suivez ce guide de dépannage](troubleshooting-ssloth-browser)
 
    ::: danger
 
-   Si vous recevez une notification vous disant de mettre à jour votre console, STOP ! Refaites la Section II depuis le début et vous assurez que vous avez correctement configuré le proxy.
+   Si vous recevez un message vous disant de mettre à jour votre console, STOP ! Refaites la Section II depuis le début et assurez-vous que vous avez correctement configuré le proxy.
 
    :::
 
 3. Appuyez sur le bouton "PROCEED TO HAXX"
 
 4. Si l'exploit a réussi, vous aurez démarré sur SafeB9SInstaller
-   - Si vous rencontrez une erreur, [suivez ce guide de dépannage](troubleshooting-ssloth-browser)
-   - Si le dépannage rate et si votre console a **seulement** 2 gâchettes fonctionnelles, suivez **seulement la Section IV** du [safecerthax](installing-boot9strap-\(safecerthax\).html#section-iv-safecerthax)
+   - Si vous avez une erreur, [suivez ce guide de dépannage](troubleshooting-ssloth-browser)
+   - Si le dépannage rate et si votre console a **seulement** 2 gâchettes fonctionnelles, suivez **seulement la Section IV** du [safecerthax](installing-boot9strap-(safecerthax).html#section-iv-safecerthax)
 
 ### Section IV - Installation de boot9strap
 

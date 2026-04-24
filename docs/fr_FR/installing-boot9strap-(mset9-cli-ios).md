@@ -10,7 +10,7 @@
 
 ::: warning
 
-Cette page nécessite un iPhone ou un iPad fonctionnant avec iOS/iPadOS 14.0 ou ultérieur. Si vous avez un ordinateur sous Windows, macOS, or Linux, suivez plutôt [Installation de boot9strap (MSET9 CLI)](installing-boot9strap-\(mset9-cli\)). Si vous avez un téléphone/une tablette Android ou un Chromebook, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
+Cette page nécessite un iPhone ou un iPad fonctionnant avec iOS/iPadOS 14.0 ou ultérieur. Si vous avez un ordinateur sous Windows, macOS, or Linux, suivez plutôt [Installation de boot9strap (MSET9 CLI)](installing-boot9strap-(mset9-cli)). Si vous avez un téléphone/une tablette Android ou un Chromebook, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 :::
 
@@ -28,7 +28,7 @@ Comme les iPhones et iPads n'ont pas d'emplacement de carte SD, vous aurez besoi
 
 ::: info
 
-Sur cette page, vous utiliserez le script MSET9, qui est utilisé pour déclencher MSET9. Pendant que le script est en cours, les données de l'utilisateur disparaîtront temporairement mais reviendront à la fin de cette page. Si une erreur est survenue lors de l'exécution du script, la solution à cette erreur peut très probablement être trouvée sur la page de [dépannage](troubleshooting-mset9).
+Sur cette page, vous utiliserez le script MSET9, qui est utilisé pour déclencher MSET9. Pendant que le script est en cours, les données de l'utilisateur disparaîtront temporairement mais reviendront à la fin de cette page. Si vous avez une erreur lors de l'exécution du script, la solution à cette erreur peut très probablement être trouvée sur la page de [dépannage](troubleshooting-mset9).
 
 :::
 
@@ -61,7 +61,7 @@ Dans cette section, vous préparerez l'exploit MSET9 en créant **temporairement
    - Assurez-vous que le modèle et la version corrects de la console sont affichés
 2. Tapez `1`, puis appuyez sur Entrée pour commencer le processus de création du MSET9 ID1
 3. Après avoir examiné l'avertissement, tapez `1` à nouveau et appuyez sur Entrée pour l'accepter
-   - Si une erreur est survenue, consultez la page de [dépannage](troubleshooting-mset9), puis réessayez
+   - Si vous avez une erreur, consultez le [dépannage](troubleshooting-mset9), puis réessayez
 4. Si vous voyez le message "Created hacked ID1.", appuyez sur Entrée pour fermer le script MSET9
    - Votre 3DS paraîtra vide / sans aucune application installée par l'utilisateur sur le menu HOME. **Cela est attendu.** Vos données reviendront à une étape ultérieure
 5. Réinsérez votre carte SD dans votre console

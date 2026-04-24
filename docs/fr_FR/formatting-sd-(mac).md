@@ -6,11 +6,11 @@ Ceci est une section complémentaire sur comment formater une carte SD pour êtr
 
 Si la carte SD est déjà reconnue par la 3DS, ce guide n'est pas nécessaire.
 
-Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un Mac, jetez un œil aux pages [Formater la SD (Windows)](formatting-sd-\(windows\)) ou [Formater la SD (Linux)](formatting-sd-\(linux\)).
+Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un Mac, jetez un œil aux pages [Formater la SD (Windows)](formatting-sd-(windows)) ou [Formater la SD (Linux)](formatting-sd-(linux)).
 
 ## Instructions
 
-### OS X El Capitan (10,11) et ultérieur
+### OS X El Capitan (10.11) et ultérieur
 
 1. Insérez votre carte SD dans votre ordinateur
 
@@ -35,17 +35,17 @@ Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un
 8. Assurez-vous que le "Format" est défini à "MS-DOS (FAT)"
 
 9. Assurez-vous que le "Schéma" est défini à "Enregistrement de démarrage principal"
-   - Si l'option "Schéma" n'est pas affichée, cliquez sur "Annuler" et assurez-vous de choisir l'appareil au lieu du volume
+   - Si l'option "Schéma" n'est pas affichée, cliquez sur "Annuler" et assurez-vous de choisir l'appareil au lieu d'un volume
 
 10. Cliquez sur "Effacer"
 
-11. Attendez que le formatage soit terminé
+11. Attendez que le formatage se termine
 
 12. Cliquez sur "Fermer"
 
 13. Si la carte SD contenait des fichiers et dossiers avant le formatage, copiez-les sur la carte SD depuis votre ordinateur
 
-### OS X Yosemite (10,10) et antérieurs
+### OS X Yosemite (10.10) et antérieur
 
 1. Insérez votre carte SD dans votre ordinateur
 
@@ -80,7 +80,7 @@ Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un
 
 13. Cliquez sur "Partition"
 
-14. Attendez que le formatage soit terminé
+14. Attendez que le formatage se termine
 
 15. Fermez l'Utilitaire de Disque
 

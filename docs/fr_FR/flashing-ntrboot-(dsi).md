@@ -45,6 +45,6 @@ ___
 
 ::: tip
 
-Continuez vers [Installation de boot9strap (ntrboot)](installing-boot9strap-\(ntrboot\))
+Continuez vers [Installation de boot9strap (ntrboot)](installing-boot9strap-(ntrboot))
 
 :::

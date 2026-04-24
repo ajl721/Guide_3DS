@@ -35,7 +35,7 @@ Cela va vous aider à trouver les fichiers mentionnés dans la suite de ce guide
 
 ### Windows 7
 
-1. Ouvrez le menu démarrer en cliquant dessus ou en utilisant la touche Windows
+1. Ouvrez le Menu Démarrer en cliquant dessus ou en utilisant la touche Windows
 
 2. Cherchez "Options des dossiers" et sélectionnez le résultat correspondant
 
@@ -45,7 +45,7 @@ Cela va vous aider à trouver les fichiers mentionnés dans la suite de ce guide
 
    :::
 
-3. Cliquez sur l'onglet "Affichage" en haut
+3. Cliquez sur l'onglet "Affichage" en haut du menu Options des dossiers
 
 4. Décochez la case nommée "Masquer les extensions des fichiers dont le type est connu"
 

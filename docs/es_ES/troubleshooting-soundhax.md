@@ -64,7 +64,7 @@ If this is unsuccessful, try using another SD card.
 
 ::: tip
 
-Go back to [Installing boot9strap (Soundhax)](installing-boot9strap-\(soundhax\))
+Go back to [Installing boot9strap (Soundhax)](installing-boot9strap-(soundhax))
 
 :::
 

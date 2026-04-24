@@ -21,7 +21,7 @@ Super-skaterhax (lorsqu'il est utilisé pour lancer le Homebrew Launcher) est co
 
 ::: info
 
-Cet exploit est connu pour être irrégulier : il marche pour certaines personnes, mais pas pour d'autres. Si vous préférez utiliser un exploit plus régulier (ce qui pourra prendre plus de temps, mais aura le même résultat final), suivez [MSET9](installing-boot9strap-\(mset9\)) à la place.
+Cet exploit est connu pour être irrégulier : il marche pour certaines personnes, mais pas pour d'autres. Si vous préférez utiliser un exploit plus régulier (ce qui pourra prendre plus de temps, mais aura le même résultat final), suivez [MSET9](installing-boot9strap-(mset9)) à la place.
 
 :::
 
@@ -103,10 +103,10 @@ Une vidéo en anglais détaillant ces étapes est disponible [ici](https://www.y
     - **Une boîte de message blanche qui affiche "Une erreur est survenue"** : L'exploit a échoué à cause du hasard. Ouvrez les Paramètres de la Console, changez la langue à une autre langue (si possible), puis réessayez cette section. Il va peut-être falloir répéter cette séquence jusqu'à dix fois
       - Sur les consoles de la région JPN/KOR, il n'y a qu'une langue disponible. Sur ces consoles, vous devriez ouvrir les Paramètres de la Console, les fermer, puis réessayer cette section
       - Si l'exploit échoue encore après cinq tentatives, il y a peut-être un problème avec vos fichiers ou vos préparations. Assurez-vous que la région et la date/heure sont correctes, et que vous avez bien suivi cette section **à la lettre**. Si vous avez utilisé WinRAR pour extraire les fichiers sur la carte SD, extrayez les fichiers de nouveau en utilisant l'Explorateur de fichiers ou 7-zip
-      - Si l'exploit échoue encore après dix tentatives, suivez [MSET9](installing-boot9strap-\(mset9\)) à la place
+      - Si l'exploit échoue encore après dix tentatives, suivez [MSET9](installing-boot9strap-(mset9)) à la place
     - **Un écran noir qui affiche "Une erreur est survenue"** : Votre placement des fichiers est incorrect. Assurez-vous que les fichiers super-skaterhax sont à la racine de la carte SD
-    - **Un écran jaune** : l'Homebrew Launcher n'a pas pu s'ouvrir à cause du hasard. Maintenez le bouton POWER jusqu'à ce que la console s'éteigne, puis réessayez cette section
-    - **[Le mot "Text"](/images/screenshots/skaterhax/skater-old3ds.png)** : Vous avez une Old 3DS, sur laquelle cet exploit **ne fonctionne pas**. Si c'est le cas, vous devriez suivre [MSET9](installing-boot9strap-\(mset9\)) à la place
+    - **Un écran jaune** : Le Homebrew Launcher n'a pas pu s'ouvrir par pur hasard. Maintenez le bouton POWER jusqu'à ce que la console s'éteigne, puis réessayez cette section
+    - **[Le mot "Text"](/images/screenshots/skaterhax/skater-old3ds.png)** : Vous avez une Old 3DS, sur laquelle cet exploit **ne fonctionne pas**. Si c'est le cas, vous devriez suivre [MSET9](installing-boot9strap-(mset9)) à la place
 17. Lancez "nimdsphax" que vous trouverez dans la liste de homebrew
 18. Si l'exploit a réussi, vous devriez avoir démarré dans SafeB9SInstaller
     - Si votre console se fige sur un écran rouge ou vert, maintenez le bouton POWER jusqu'à ce qu'elle s'éteigne, puis réessayez cette section

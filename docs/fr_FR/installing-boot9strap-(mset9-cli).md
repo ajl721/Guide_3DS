@@ -10,13 +10,13 @@
 
 ::: warning
 
-Cette page nécessite un ordinateur fonctionnant sous Windows, Linux ou macOS. Si vous avez un téléphone/une tablette Android ou un Chromebook, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)). Si vous avez un iPhone ou un iPad, suivez plutôt [Installation de boot9strap (MSET9 CLI iOS)](installing-boot9strap-\(mset9-cli-ios\)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
+Cette page nécessite un ordinateur fonctionnant sous Windows, Linux ou macOS. Si vous avez un téléphone/une tablette Android ou un Chromebook, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)). Si vous avez un iPhone ou un iPad, suivez plutôt [Installation de boot9strap (MSET9 CLI iOS)](installing-boot9strap-(mset9-cli-ios)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 :::
 
 ::: info
 
-Si vous utilisez un appareil Android comme adaptateur de carte SD pour votre ordinateur, vous ne serez pas en mesure de suivre cette page en raison d'incompatibilités avec le protocole de transfert de fichiers d'Android (MTP). Si c'est le cas, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)).
+Si vous utilisez un appareil Android comme adaptateur de carte SD pour votre ordinateur, vous ne serez pas en mesure de suivre cette page en raison d'incompatibilités avec le protocole de transfert de fichiers d'Android (MTP). Si c'est le cas, suivez plutôt [Installation de boot9strap (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)).
 
 :::
 
@@ -31,7 +31,7 @@ Si vous utilisez un appareil Android comme adaptateur de carte SD pour votre ord
 
 ::: info
 
-Sur cette page, vous utiliserez le script MSET9, qui est utilisé pour déclencher MSET9. Pendant que le script est en cours, les données de l'utilisateur disparaîtront temporairement mais reviendront à la fin de cette page. Si une erreur est survenue lors de l'exécution du script, la solution à cette erreur peut très probablement être trouvée sur la page de [dépannage](troubleshooting-mset9).
+Sur cette page, vous utiliserez le script MSET9, qui est utilisé pour déclencher MSET9. Pendant que le script est en cours, les données de l'utilisateur disparaîtront temporairement mais reviendront à la fin de cette page. Si vous avez une erreur lors de l'exécution du script, la solution à cette erreur peut très probablement être trouvée sur la page de [dépannage](troubleshooting-mset9).
 
 :::
 
@@ -71,7 +71,7 @@ Dans cette section, vous préparerez l'exploit MSET9 en créant **temporairement
    - Assurez-vous que le modèle et la version corrects de la console sont affichés
 2. Tapez `1`, puis appuyez sur Entrée pour commencer le processus de création du MSET9 ID1
 3. Après avoir examiné l'avertissement, tapez `1` à nouveau et appuyez sur Entrée pour l'accepter
-   - Si une erreur est survenue, consultez la page de [dépannage](troubleshooting-mset9), puis réessayez
+   - Si vous avez une erreur, consultez le [dépannage](troubleshooting-mset9), puis réessayez
 4. Si vous voyez le message "Created hacked ID1.", appuyez sur Entrée pour fermer le script MSET9
    - Votre console paraîtra vide / sans aucune application installée par l'utilisateur sur le menu HOME. **Cela est attendu.** Vos données reviendront à une étape ultérieure
 5. Réinsérez votre carte SD dans votre console

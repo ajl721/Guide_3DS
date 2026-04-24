@@ -6,11 +6,11 @@ Ceci est une section complémentaire sur comment vérifier si votre carte SD ne 
 
 Selon la taille de votre carte SD et la vitesse de votre ordinateur, ce processus peut prendre jusqu'à plusieurs heures !
 
-Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un Mac, jetez un œil aux pages [H2testw (Windows)](h2testw-\(windows\)) ou [F3 (Linux)](f3-\(linux\)).
+Cette page est seulement pour les utilisateurs de Mac. Si vous n'utilisez pas un Mac, jetez un œil aux pages [H2testw (Windows)](h2testw-(windows)) ou [F3 (Linux)](f3-(linux)).
 
 ::: info
 
-F3XSwift est compatible uniquement avec macOS 10.13 (High Sierra) ou ultérieur. Si vous avez une version de macOS plus ancienne, suivez plutôt [F3X (Mac)](f3x-\(mac\)).
+F3XSwift est compatible uniquement avec macOS 10.13 (High Sierra) ou ultérieur. Si vous avez une version de macOS plus ancienne, suivez plutôt [F3X (Mac)](f3x-(mac)).
 
 :::
 

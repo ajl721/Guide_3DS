@@ -57,7 +57,7 @@ Votre carte (micro)SD devrait se conformer aux exigences suivantes :
 - **Vitesse** : N'importe
   - Actuellement, les cartes les moins chères en vente sont les **Class 10** (par ex. SanDisk Ultra). Des cartes plus rapides sont acceptables, mais la 3DS ne pourra pas tirer parti de leur vitesse
 - **Format** : FAT32 avec MBR
-  - Les cartes de 32 Go ou moins devraient être déjà formatées de cette manière, tandis que les cartes SD plus grandes devront être manuellement formatées : [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+  - Les cartes de 32 Go ou moins devraient être déjà formatées de cette manière, tandis que les cartes SD plus grandes devront être manuellement formatées : [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 Pour les consoles qui utilisent une carte SD grand-format, une carte microSD dans un adaptateur pour carte SD fonctionnera de la même manière.
 
@@ -69,7 +69,7 @@ Il est fortement recommandé de **n'utiliser qu'une seule carte SD** avec une co
 
 ::: info
 
-Si vous le souhaitez, vous pouvez vérifier si votre carte SD comporte des erreurs/est une imitation avant de suivre ce guide en utilisant [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), ou [F3XSwift (Mac)](f3xswift-\(mac\)).
+Si vous le souhaitez, vous pouvez vérifier si votre carte SD comporte des erreurs/est une imitation avant de suivre ce guide en utilisant [H2testw](h2testw-(windows))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-(linux)), ou [F3XSwift (Mac)](f3xswift-(mac)).
 
 :::
 
@@ -165,7 +165,7 @@ L'application Windows "WinRAR" est particulièrement connue pour ses problèmes 
 
 :::
 
-Si votre ordinateur exécute Windows, les extensions de fichiers peuvent être masquées par défaut, ce qui peut rendre plus difficile la recherche des fichiers que vous cherchez. Pour activer l'affichage des extensions de fichiers, suivez [ces instructions](file-extensions-\(windows\)).
+Si votre ordinateur exécute Windows, les extensions de fichiers peuvent être masquées par défaut, ce qui peut rendre plus difficile la recherche des fichiers que vous cherchez. Pour activer l'affichage des extensions de fichiers, suivez [ces instructions](file-extensions-(windows)).
 
 ::::
 

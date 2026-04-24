@@ -66,7 +66,7 @@ Le jeu sera exporté vers le dossier `/gm9/out/ sur votre carte SD sous le nom `
 
 ::: info
 
-Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (HOME) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
+Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (Home) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
 
 :::
 
@@ -87,12 +87,12 @@ Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obte
 1. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
 2. Naviguez vers `[E:] EMUNAND VIRTUAL`
 3. Appuyez sur (A) sur `nand.bin` pour le sélectionner, puis choisissez "NAND image options...", puis "Restore SysNAND (safe)"
-4. Appuyez sur (A) pour débloquer l'écriture sur votre SysNAND, puis eentrez la combinaison de boutons donnée
+4. Appuyez sur (A) pour autoriser l'écriture sur votre SysNAND, puis entrez la combinaison de boutons donnée
    - Ceci n'effacera pas votre installation boot9strap
 5. Entrez la combinaison de boutons donnée pour débloquer l'écriture sur votre SysNAND (lvl1)
    - Ce processus prendra un certain temps
 6. Une fois terminé, appuyez sur (A) pour continuer
-7. Appuyez sur (B) pour décliner le verrouillage des autorisations en écriture si vous y êtes invité
+7. Appuyez sur (B) pour décliner le reverrouillage des autorisations en écriture si vous y êtes invité
 8. Appuyez sur (B) pour revenir au menu principal
 
 ### Section V - Restaurer des sauvegardes DSiWare
@@ -112,7 +112,7 @@ Si vous n'avez pas fait de copies de sauvegardes DSiWare auparavant, passez cett
 7. Appuyez sur (A) pour autoriser l'écriture sur votre SysNAND (lvl1), puis entrez la combinaison de boutons donnée
 8. Sélectionnez "Overwrite file(s)"
    - Ce processus peut prendre un certain temps si vous avez beaucoup de jeux DSiWare
-9. Appuyez sur (B) pour décliner le verrouillage des autorisations en écriture si vous y êtes invité
+9. Appuyez sur (B) pour décliner le reverrouillage des autorisations en écriture si vous y êtes invité
 10. Appuyez deux fois sur (B) pour revenir au menu principal
 
 ### Section VI - Restaurer des sauvegardes GBA de la Console Virtuelle
@@ -125,7 +125,7 @@ Si vous n'avez pas fait de copies de sauvegardes GBA de la Console Virtuelle aup
 
 ::: info
 
-Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (HOME) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
+Pour identifier le Title ID d'un fichier `<TitleID>.gbavc.sav`, vous pouvez obtenir une liste de tous les jeux installés sur la console et leurs Title IDs en appuyant sur (Home) pour faire apparaître le menu d'actions, en sélectionnant `Title manager` puis `[A:] SD CARD`.
 
 :::
 

@@ -10,7 +10,7 @@
 
 ::: warning
 
-Cette page nécessite un téléphone/une tablette Android ou un Chromebook. Si vous avez un iPhone ou un iPad, suivez plutôt [Installation de boot9strap (MSET9 CLI iOS)](installing-boot9strap-\(mset9-cli-ios\)). Si vous avez un ordinateur sous Windows, macOS, or Linux, suivez plutôt [Installation de boot9strap (MSET9 CLI)](installing-boot9strap-\(mset9-cli\)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
+Cette page nécessite un téléphone/une tablette Android ou un Chromebook. Si vous avez un iPhone ou un iPad, suivez plutôt [Installation de boot9strap (MSET9 CLI iOS)](installing-boot9strap-(mset9-cli-ios)). Si vous avez un ordinateur sous Windows, macOS, or Linux, suivez plutôt [Installation de boot9strap (MSET9 CLI)](installing-boot9strap-(mset9-cli)). Si vous n'avez accès à aucun de ces appareils, vous devrez utiliser un [exploit alternatif](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 :::
 
@@ -57,7 +57,7 @@ Dans cette section, vous préparerez l'exploit MSET9 en créant **temporairement
 5. Dès que vous êtes dans le dossier `Nintendo 3DS`, appuyez sur "Use this folder", puis, "Allow" si demandé ([image](/images/screenshots/mset9/select-mset9-folder-2.png))
 
 6. Si "Setup MSET9" est [mis en surbrillance](/images/screenshots/mset9/setup-mset9-highlighted.png), passez à l'étape suivante
-   - Si une erreur est survenue, vous devez la résoudre avant de pouvoir utiliser MSET9. Référez-vous à [Problèmes et Dépannage](troubleshooting-mset9)
+   - Si vous avez une erreur, vous devez la résoudre avant de pouvoir utiliser MSET9. Référez-vous au [dépannage](troubleshooting-mset9)
 
 7. Appuyez sur `Setup MSET9` pour commencer le processus de configuration de MSET9
 
@@ -66,7 +66,7 @@ Dans cette section, vous préparerez l'exploit MSET9 en créant **temporairement
 9. Appuyez sur la photo correspondant à votre modèle de console, puis sur le bouton correspondant à votre version actuelle du firmware
 
 10. Si vous voyez `Hax ID1 Created`, appuyez sur OK pour continuer
-    - Si une erreur est survenue, consultez la page de [dépannage](troubleshooting-mset9), puis réessayez
+    - Si vous avez une erreur, consultez le [dépannage](troubleshooting-mset9), puis réessayez
     - Votre console paraîtra vide / sans aucune application installée par l'utilisateur sur le menu HOME. **Cela est attendu.** Vos données reviendront à une étape ultérieure
 
 11. Réinsérez votre carte SD dans votre console
@@ -89,7 +89,7 @@ Dans cette section, vous préparerez l'exploit MSET9 en créant **temporairement
 18. L'application MSET9 Installer devrait automatiquement vérifier si vous avez correctement effectué les étapes précédentes
     - L'application peut prendre quelques secondes pour détecter la carte SD et réagir
     - Si la vérification ne se fait pas automatiquement, appuyez sur `Check MSET9 status` pour effectuer une vérification manuelle
-    - Si une erreur est survenue, consultez la page de [dépannage](troubleshooting-mset9), puis réessayez
+    - Si vous avez une erreur, consultez le [dépannage](troubleshooting-mset9), puis réessayez
 
 19. Si la vérification a réussi, vous devriez voir `Inject trigger file` être [mis en surbrillance](/images/screenshots/mset9/inject-trigger-highlighted.png) et vous pouvez continuer à l'étape suivante. **N'injectez pas encore le déclencheur.** Mettez votre Téléphone/tablette/ordinateur de côté pour le moment
 

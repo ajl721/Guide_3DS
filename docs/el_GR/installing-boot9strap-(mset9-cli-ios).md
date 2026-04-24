@@ -10,7 +10,7 @@
 
 ::: warning
 
-Αυτή η σελίδα απαιτεί ένα iPhone ή ένα iPad με iOS/iPadOS 14.0 ή νεότερο. Εάν διαθέτετε έναν υπολογιστή με Windows, macOS ή Linux, ακολουθήστε τις οδηγίες της ενότητας [Εγκατάσταση του boot9strap (MSET9 CLI)](installing-boot9strap-\(mset9-cli\)). Εάν διαθέτετε ένα τηλέφωνο ή tablet με Android ή ένα Chromebook, ακολουθήστε τις οδηγίες της ενότητας [Εγκατάσταση του boot9strap (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)). Εάν δεν έχετε πρόσβαση σε καμία από αυτές τις συσκευές, θα πρέπει να χρησιμοποιήσετε ένα [εναλλακτικό exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
+Αυτή η σελίδα απαιτεί ένα iPhone ή ένα iPad με iOS/iPadOS 14.0 ή νεότερο. Εάν διαθέτετε έναν υπολογιστή με Windows, macOS ή Linux, ακολουθήστε τις οδηγίες της ενότητας [Εγκατάσταση του boot9strap (MSET9 CLI)](installing-boot9strap-(mset9-cli)). Εάν διαθέτετε ένα τηλέφωνο ή tablet με Android ή ένα Chromebook, ακολουθήστε τις οδηγίες της ενότητας [Εγκατάσταση του boot9strap (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)). Εάν δεν έχετε πρόσβαση σε καμία από αυτές τις συσκευές, θα πρέπει να χρησιμοποιήσετε ένα [εναλλακτικό exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 :::
 

@@ -78,7 +78,7 @@ Dans cette section, vous lancerez Soundhax au travers de l'application Studio so
    - Il se peut que cela nécessite plusieurs tentatives (jusqu'à 10)
    - Si vous voyez le message "Lecture impossible", vous êtes soit sur une version du système incompatible avec Soundhax ou vous avez téléchargé la mauvaise version de Soundhax
    - Si elle se fige, forcez-la simplement à s'éteindre en maintenant le bouton POWER, puis réessayez
-   - Si vous obtenez une erreur différente, [suivez ce guide de dépannage](troubleshooting-soundhax)
+   - Si vous avez une erreur différente, [suivez ce guide de dépannage](troubleshooting-soundhax)
 
    ::: info
 

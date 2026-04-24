@@ -16,7 +16,7 @@
 
 :::details Je suis sur la dernière version du système. Ma console est-elle en mesure d'être hackée sans l'utilisation de matériel externe ou de prérequis ?
 
-**Oui !** Les New 3DS / New 3DS XL / New 2DS XL peuvent utiliser [super-skaterhax](installing-boot9strap-\(super-skaterhax\)), tandis que les 3DS / 3DS XL / 2DS peuvent utiliser [MSET9](installing-boot9strap-\(mset9\)).
+**Oui !** Les New 3DS / New 3DS XL / New 2DS XL peuvent utiliser [super-skaterhax](installing-boot9strap-(super-skaterhax)), tandis que les 3DS / 3DS XL / 2DS peuvent utiliser [MSET9](installing-boot9strap-(mset9)).
 
 :::
 
@@ -82,7 +82,7 @@ Vous aurez besoin d'au moins 1,5 Go d'espace libre sur votre carte SD pour suivr
 
 Vous ne devriez utiliser qu'une seule carte SD avec une 3DS à la fois. Si vous utilisez une autre carte SD pour modder votre console, vous allez créer un autre 'profil' pour votre logiciel moddé, qui sera inaccessible sur votre carte SD d'origine. Cependant, **votre console restera moddée**, puisque le mod est installé sur la mémoire interne (pas sur la carte SD).
 
-Si vous avez acheté une nouvelle carte SD pour l'utiliser avec votre console, vous devriez formater la nouvelle carte SD ([Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))), puis copier et coller tout le contenu de votre ancienne carte SD vers la nouvelle carte SD. Vous pouvez le faire avant ou après avoir moddé la console.
+Si vous avez acheté une nouvelle carte SD pour l'utiliser avec votre console, vous devriez formater la nouvelle carte SD ([Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))), puis copier et coller tout le contenu de votre ancienne carte SD vers la nouvelle carte SD. Vous pouvez le faire avant ou après avoir moddé la console.
 
 :::
 
@@ -112,7 +112,7 @@ Si vous utilisez Luma3DS, votre lanceur de custom firmware (boot9strap) ne sera 
 
 :::details Comment mettre à jour ma carte SD ?
 
-Copiez et collez le contenu de votre ancienne carte SD vers la nouvelle carte SD formatée au préalable en FAT32. Pour les cartes SD de 128 Go, une taille d'allocation de 65536 est recommandée. Les cartes SD de plus de 128 Go ne sont pas recommandées en raison de problèmes connus avec les graphismes GBA et les thèmes personnalisés. Des instructions de formatage spécifiques sont disponibles ici : [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\)).
+Copiez et collez le contenu de votre ancienne carte SD vers la nouvelle carte SD formatée au préalable en FAT32. Pour les cartes SD de 128 Go, une taille d'allocation de 65536 est recommandée. Les cartes SD de plus de 128 Go ne sont pas recommandées en raison de problèmes connus avec les graphismes GBA et les thèmes personnalisés. Des instructions de formatage spécifiques sont disponibles ici : [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux)).
 
 :::
 
@@ -148,7 +148,7 @@ Si le jeu n'est pas de la même région que votre console, vous allez avoir beso
 
 :::details À l'aide ! Quelque chose de grave est arrivé à ma 3DS, elle ne veut pas démarrer vers le menu HOME...
 
-Consultez le [guide de dépannage](troubleshooting). **Désinstaller le CFW lorsque votre console ne démarre plus n'est pas recommandé, car il est très susceptible de conduire à un brick**.
+Veuillez consulter le [guide de dépannage](troubleshooting). **Désinstaller le CFW lorsque votre console ne démarre plus n'est pas recommandé, car il est très susceptible de conduire à un brick**.
 
 :::
 

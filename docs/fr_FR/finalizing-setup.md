@@ -111,7 +111,7 @@ Dans cette section, vous utiliserez une série de scripts pour automatiser l'ins
      - Vous pouvez sélectionner la langue de votre choix après avoir terminé ce guide
    - S'il vous est demandé de créer une sauvegarde de fichiers essentiels ("essential files backup"), appuyez sur (A) pour la faire, puis appuyez sur (A) pour continuer
    - Si vous êtes invité à corriger la date et l’heure RTC, appuyez sur (A) pour le faire, puis réglez la date et l’heure, puis appuyez sur (A) pour continuer
-5. Quand vous voyez [root] et une liste de lecteurs, appuyez sur (Home) pour aller dans le menu d'actions
+5. Quand vous voyez [root] et une liste de lecteurs, appuyez sur (Home) pour faire apparaître le menu d'actions
 6. Sélectionnez "Scripts..." (_pas_ l'option "Lua scripts")
 7. Sélectionnez "finalize"
 8. Suivez les instructions du script, en répondant aux questions qui vous sont posées

@@ -31,7 +31,7 @@ Si aparece la pantalla de configuración de Luma3DS o cualquier otro menú perso
 
 ::: warning
 
-If, when the console boots to the HOME Menu, you see the error "Could not detect an SD card", ensure that your SD card is properly formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+If, when the console boots to the HOME Menu, you see the error "Could not detect an SD card", ensure that your SD card is properly formatted: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 :::
 
@@ -55,4 +55,4 @@ De ser posible, deberías seguir el método dado por el enunciado arriba.
 De lo contrario, existen otros métodos que funcionan en todas las versiones, pero requieren hardware adicional:
 
 1. [ntrboot](ntrboot) - requires compatible DS flashcart
-2. [Instalar boot9strap (modificación de hardware)](installing-boot9strap-\(hardmod\)) - requiere hacer soldaduras
+2. [Instalar boot9strap (modificación de hardware)](installing-boot9strap-(hardmod)) - requiere hacer soldaduras

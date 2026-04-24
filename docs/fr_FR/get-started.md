@@ -2,7 +2,7 @@
 noneSelected: Le modèle de la console doit être sélectionné.
 invalidVersion: Il semblerait que ce numéro de version soit invalide.
 cfwPrefixDetected: Il semble que votre console dispose déjà d'un custom firmware. Veuillez réessayer la Section I. Si vous n'arrivez toujours qu'au menu HOME, merci de cliquer sur le lien ci-dessous et de faire une demande d'assistance en anglais.
-inviteLinkText: Nintendo Homebrew sur Discord
+inviteLinkText: Discord de Nintendo Homebrew
 otherPrefix: (Autres)
 head:
   [
@@ -31,7 +31,7 @@ Si vous voyez l'écran de configuration de Luma3DS ou tout autre menu personnali
 
 ::: warning
 
-Si, lorsque la console démarre sur le menu HOME, vous voyez l'erreur "Impossible de détecter une carte SD", assurez-vous que votre carte SD est correctement formatée : [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+Si, lorsque la console démarre sur le menu HOME, vous voyez l'erreur "Impossible de détecter une carte SD", assurez-vous que votre carte SD est correctement formatée : [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 :::
 
@@ -55,4 +55,4 @@ Si possible, vous devriez suivre la méthode indiquée dans le formulaire ci-des
 Sinon, des méthodes qui fonctionnent sur toutes les versions sont disponibles, mais nécessitent du matériel supplémentaire :
 
 1. [ntrboot](ntrboot) - nécessite un linker DS compatible
-2. [Installation de boot9strap (Hardmod)](installing-boot9strap-\(hardmod\)) - nécessite de la soudure
+2. [Installation de boot9strap (Hardmod)](installing-boot9strap-(hardmod)) - nécessite de la soudure

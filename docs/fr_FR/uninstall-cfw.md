@@ -28,9 +28,9 @@ Si vous supprimez le CFW parce que :
 Si vous avez effectué N'IMPORTE LAQUELLE des actions qui suivent :
 
 - [Changé la région](region-changing) de la console
-- Installed a custom keyboard
+- Installé un clavier personnalisé
 - Installé un menu HOME personnalisé (_pas_ un thème personnalisé)
-- Manually changed the encryption key (`movable.sed`) of the console
+- Modifié manuellement la clé de chiffrement (`movable.sed`) de la console
 - Débanni la console
 
 alors désinstaller le CFW <u>**BRICKERA VOTRE CONSOLE**</u>. Si cela est votre cas, [restaurez une sauvegarde propre de la NAND](godmode9-usage#restoring-a-nand-backup) avant de continuer.
@@ -100,7 +100,7 @@ L'objectif de cette section est de vérifier que la console démarrera et que le
 2. Si vous êtes invité à créer une sauvegarde des fichiers essentiels, appuyez sur (A) pour le faire, puis appuyez sur (A) pour continuer une fois qu'elle est terminée
 3. Si vous êtes invité à corriger la date et l’heure RTC, appuyez sur (A) pour le faire, puis réglez la date et l’heure, puis appuyez sur (A) pour continuer
    - Notez que, si vous avez dû corriger la date et l'heure RTC, vous devrez corriger l'heure dans les Paramètres de la console aussi après ce guide
-4. Appuyez sur (HOME) pour faire apparaître le menu d’action
+4. Appuyez sur (Home) pour faire apparaître le menu d’actions
 5. Sélectionnez "Scripts..."
 6. Sélectionnez "safety_test"
 7. Lisez le texte à l'écran et appuyez sur (A) pour continuer
@@ -124,17 +124,17 @@ Si votre console ne démarre PAS dans le menu HOME habituel de la 3DS, ou si les
 ### Section IV - Sauvegarde de la NAND
 
 1. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
-2. Appuyez sur (HOME) pour faire apparaître le menu d’action
+2. Appuyez sur (Home) pour faire apparaître le menu d’actions
 3. Sélectionnez "Scripts..."
 4. Sélectionnez "GM9Megascript"
 5. Sélectionnez "Backup Options"
 6. Sélectionnez "SysNAND Backup"
 7. Appuyez sur (A) pour confirmer
    - Ce processus prendra un certain temps
-   - Si un message d'erreur apparaît, assurez-vous d'avoir au moins 1,3 Go d'espace libre sur votre carte SD
+   - Si vous avez une erreur, assurez-vous d'avoir au moins 1,3 Go d'espace libre sur votre carte SD
 8. Appuyez sur (B) pour revenir au menu principal
 9. Sélectionnez “Exit”
-10. Appuyez sur (HOME) pour faire apparaître le menu d’action
+10. Appuyez sur (Home) pour faire apparaître le menu d’actions
 11. Sélectionnez "Poweroff system" pour éteindre votre console
 
 ### Section V - Suppression du contenu illégitime
@@ -206,7 +206,7 @@ Si vous supprimez le CFW parce que :
 
 1. Appuyez sur et maintenez (Start), et tout en maintenant (Start), allumez votre console. Ceci lancera GodMode9
    - Si vous voyez plutôt le chainloader de Luma3DS, utilisez la croix directionnelle et le bouton (A) pour sélectionner GodMode9
-2. Appuyez sur (HOME) pour faire apparaître le menu d’action
+2. Appuyez sur (Home) pour faire apparaître le menu d’actions
 3. Sélectionnez "Scripts..."
 4. Sélectionnez "uninstall_cfw"
 5. Lorsque vous y êtes invité, appuyez sur (A)

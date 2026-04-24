@@ -64,7 +64,7 @@ head:
 
 ::: tip
 
-Επιστροφή στην [Εγκατάσταση του boot9strap (Soundhax)](installing-boot9strap-\(soundhax\))
+Επιστροφή στην [Εγκατάσταση του boot9strap (Soundhax)](installing-boot9strap-(soundhax))
 
 :::
 

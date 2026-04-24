@@ -6,7 +6,7 @@
 6. Appuyez sur (B) pour continuer
 7. Appuyez sur (B) pour revenir au menu principal de Rosalina
 8. Appuyez sur (B) pour quitter le menu Rosalina
-9. Appuyez sur (HOME), pour mettre Mode téléchargement en suspens
+9. Appuyez sur (Home), pour mettre Mode téléchargement en suspens
 10. Appuyez sur le bouton "Quitter" sur l'écran du bas pour fermer Mode téléchargement
 11. Relancez l’application Mode téléchargement
 12. Votre console devrait charger le Homebrew Launcher
