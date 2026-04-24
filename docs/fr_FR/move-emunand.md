@@ -60,7 +60,7 @@ Notez que ce n’est pas nécessaire pour tout autre type de jeux Console Virtue
 
 ::: info
 
-Le jeu sera exporté vers le dossier `/gm9/out/ sur votre carte SD sous le nom `<TitleID>.gbavc.sav\`.
+Le jeu sera exporté vers le dossier `/gm9/out/` sur votre carte SD sous le nom `<TitleID>.gbavc.sav`.
 
 :::
 

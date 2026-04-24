@@ -142,7 +142,7 @@ Cela dépend du format de l'application homebrew. En général :
 
 Vous pouvez continuer à télécharger les mises à jour de jeu depuis le Nintendo eShop, même si celui-ci est maintenant fermé.
 
-Si le jeu n'est pas de la même région que votre console, vous allez avoir besoin d'[extraire les mises à jour](dumping-titles-and-games-cartridges) depuis une 3DS qui a cette mise à jour d'installée. Le Nintendo eShop ne contient que des mises à jour pour la région de la console (par exemple, une 3DS japonaise ne disposera que de mises à jour pour les jeux japonais).
+Si le jeu n'est pas de la même région que votre console, vous allez avoir besoin d'[extraire les mises à jour](dumping-titles-and-game-cartridges) depuis une 3DS qui a cette mise à jour d'installée. Le Nintendo eShop ne contient que des mises à jour pour la région de la console (par exemple, une 3DS japonaise ne disposera que de mises à jour pour les jeux japonais).
 
 :::
 
