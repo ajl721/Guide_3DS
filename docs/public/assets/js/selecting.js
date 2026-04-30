@@ -97,7 +97,7 @@ function can_superskaterhax(major, minor, native, region, model) {
     let do_redirect = false;
     // N3DS only
     if(model == DEVICE_N3DS) {
-        if(["U", "E"].includes(region)) {
+        if(["U", "E", "K"].includes(region)) {
             if (major == 11) {
                 if (minor >= 15) do_redirect = true;
             }
