@@ -171,7 +171,9 @@ If your computer is running Windows, file extensions may be hidden by default, w
 
 :::
 
-On most operating systems including your computer/phone, there will be a ⏏️ button on the left-sidebar of your file manager that when pressed, tells your computer/phone to safely stop all activity with the SD card and unmounts it so it can be taken out safely. This is **very** important because removing the SD card while your device is doing tasks with it can risk corruption and negatively impact the outcome of exploits when modding your 3DS.
+On most devices, your file manager will have an Eject (⏏️) button for your SD card. Using this option safely stops all activity and unmounts the card so it can be removed.
+
+This is **very** important because removing the SD card while it is in use can cause corruption and may negatively affect the outcome of exploits when modding your 3DS.
 
 ::::
 
