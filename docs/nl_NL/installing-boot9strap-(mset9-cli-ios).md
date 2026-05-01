@@ -10,7 +10,7 @@
 
 ::: warning
 
-This page requires an iPhone or iPad running iOS/iPadOS 14.0 or higher. If you have a computer running Windows, macOS, or Linux, follow [Installing boot9strap (MSET9 CLI)](installing-boot9strap-\(mset9-cli\)) instead. If you have an Android phone/tablet or a Chromebook, follow [Installing boot9strap (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)) instead. If you do not have access to any of these devices, you will need to use an [alternate exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
+This page requires an iPhone or iPad running iOS/iPadOS 14.0 or higher. If you have a computer running Windows, macOS, or Linux, follow [Installing boot9strap (MSET9 CLI)](installing-boot9strap-(mset9-cli)) instead. If you have an Android phone/tablet or a Chromebook, follow [Installing boot9strap (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)) instead. If you do not have access to any of these devices, you will need to use an [alternate exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 :::
 

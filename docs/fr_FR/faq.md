@@ -148,7 +148,7 @@ Si le jeu n'est pas de la même région que votre console, vous allez avoir beso
 
 :::details À l'aide ! Quelque chose de grave est arrivé à ma 3DS, elle ne veut pas démarrer vers le menu HOME...
 
-Veuillez consulter le [guide de dépannage](troubleshooting). **Désinstaller le CFW lorsque votre console ne démarre plus n'est pas recommandé, car il est très susceptible de conduire à un brick**.
+Veuillez consulter le [guide de dépannage](troubleshooting-post-install). **Désinstaller le CFW lorsque votre console ne démarre plus n'est pas recommandé, car il est très susceptible de conduire à un brick**.
 
 :::
 

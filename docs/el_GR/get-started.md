@@ -4,11 +4,7 @@ invalidVersion: Αυτή δεν φαίνεται να είναι έγκυρη έ
 cfwPrefixDetected: Η κονσόλα σας ενδέχεται να διαθέτει ήδη custom firmware. Ακολουθήσετε ξανά τα βήματα της Ενότητας I. Εάν εξακολουθείτε να έχετε πρόσβαση μόνο στο μενού «HOME», κάντε κλικ στον παρακάτω σύνδεσμο και ζητήστε βοήθεια στα αγγλικά.
 inviteLinkText: Nintendo Homebrew στο Discord
 otherPrefix: (Άλλο)
-head:
-  [
-    [ 'script', { src: '/assets/js/common.js' } ],
-    [ 'script', { src: '/assets/js/selecting.js' } ]
-  ]
+head: [ [ 'script', { src: '/assets/js/common.js' } ], [ 'script', { src: '/assets/js/selecting.js' } ] ]
 ---
 
 # Έναρξη

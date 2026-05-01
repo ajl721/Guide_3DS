@@ -1,14 +1,5 @@
 ---
-head:
-  [
-    [
-        'link',
-        {
-            rel: 'stylesheet',
-            href: '/assets/css/dark-apple-invert.css'
-          }
-      ]
-  ]
+head: [ [ 'link', { rel: 'stylesheet', href: '/assets/css/dark-apple-invert.css' } ] ]
 ---
 
 # Εγκατάσταση του boot9strap (MSET9)

@@ -57,7 +57,7 @@ La tua scheda (micro)SD deve avere i seguenti requisiti:
 - **Velocità**: Qualsiasi
   - Attualmente, le schede più economiche nel mercato sono quelle di **Classe 10** (es. SanDisk Ultra). Schede più veloci vanno bene comunque, ma il 3DS non può sfruttarne la velocità
 - **Formattazione**: FAT32 con partizionamento MBR
-  - Le schede di 32GB o inferiori dovrebbero essere già formattate in questo modo, mentre quelle più grandi dovranno essere formattate manualmente: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+  - Le schede di 32GB o inferiori dovrebbero essere già formattate in questo modo, mentre quelle più grandi dovranno essere formattate manualmente: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 Per le console che utilizzano una scheda SD di dimensione standard, una scheda microSD in un adattatore per schede SD funzionerà alla stessa maniera.
 
@@ -69,7 +69,7 @@ Si consiglia vivamente di **utilizzare solo una scheda SD** con una console in q
 
 ::: info
 
-Se vuoi, puoi verificare che la tua scheda SD sia legittima e priva di errori prima di seguire questa guida usando [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), o [F3XSwift (Mac)](f3xswift-\(mac\)).
+Se vuoi, puoi verificare che la tua scheda SD sia legittima e priva di errori prima di seguire questa guida usando [H2testw](h2testw-(windows))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-(linux)), o [F3XSwift (Mac)](f3xswift-(mac)).
 
 :::
 
@@ -165,7 +165,7 @@ L'applicazione "WinRAR" per Windows è nota per causare problemi di compatibilit
 
 :::
 
-Se hai un computer con Windows, le estensioni dopo il nome del file potrebbero essere nascoste per impostazione predefinita, rendendo più complicato trovare il file che stai cercando. Per abilitare le estensioni dopo il nome del file, segui [queste istruzioni](file-extensions-\(windows\)).
+Se hai un computer con Windows, le estensioni dopo il nome del file potrebbero essere nascoste per impostazione predefinita, rendendo più complicato trovare il file che stai cercando. Per abilitare le estensioni dopo il nome del file, segui [queste istruzioni](file-extensions-(windows)).
 
 ::::
 

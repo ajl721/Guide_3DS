@@ -1,10 +1,5 @@
 ---
-head:
-  [
-    [ 'script', { src: '/assets/js/common.js' } ],
-    [ 'script', { src: '/assets/js/skater-link.js' } ],
-    [ 'script', { src: '/assets/js/link-common.js' } ]
-  ]
+head: [ [ 'script', { src: '/assets/js/common.js' } ], [ 'script', { src: '/assets/js/skater-link.js' } ], [ 'script', { src: '/assets/js/link-common.js' } ] ]
 ---
 
 # Installation de boot9strap (super-skaterhax)

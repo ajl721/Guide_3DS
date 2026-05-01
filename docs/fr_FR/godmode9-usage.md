@@ -129,7 +129,7 @@ Cela ne fonctionnera que si l’injection dans Santé et sécurité a été réa
 
 ::: tip
 
-L'application Santé et sécurité a été rétablie à la normale.
+Santé et sécurité a été rétablie à la normale.
 
 :::
 

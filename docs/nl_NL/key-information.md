@@ -57,7 +57,7 @@ Your (micro)SD card should conform to the following requirements:
 - **Speed**: Any
   - Currently, the cheapest cards on the market are **Class 10** (e.g. SanDisk Ultra). Faster cards are acceptable, but the 3DS cannot take advantage of their speed
 - **Format**: FAT32 with MBR
-  - Cards that are 32GB or smaller should already be formatted in this way, while larger SD cards will have to be manually formatted: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+  - Cards that are 32GB or smaller should already be formatted in this way, while larger SD cards will have to be manually formatted: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 For consoles that use a full-size SD card, a microSD card in an SD card adapter will work identically.
 
@@ -69,7 +69,7 @@ It is highly recommended to **only use one SD card** with a console at any given
 
 ::: info
 
-If you want, you can check your SD card for errors/legitimacy before following this guide using [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), or [F3XSwift (Mac)](f3xswift-\(mac\)).
+If you want, you can check your SD card for errors/legitimacy before following this guide using [H2testw](h2testw-(windows))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-(linux)), or [F3XSwift (Mac)](f3xswift-(mac)).
 
 :::
 
@@ -165,7 +165,7 @@ The Windows application "WinRAR" is specifically known to cause compatibility is
 
 :::
 
-If your computer is running Windows, file extensions may be hidden by default, which may make it harder to find the files you're looking for. To enable file extensions, follow [these instructions](file-extensions-\(windows\)).
+If your computer is running Windows, file extensions may be hidden by default, which may make it harder to find the files you're looking for. To enable file extensions, follow [these instructions](file-extensions-(windows)).
 
 ::::
 

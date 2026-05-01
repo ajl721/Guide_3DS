@@ -1,6 +1,6 @@
 1. Copiez la commande suivante :
     ```
-    wget -O - https://imset9.686178.xyz | sh
+    wget -O - https://3ds.hacks.guide/assets/imset9.sh | sh
     ```
    - Touchez l'encadré ci-dessus et une icône Copier devrait apparaître
 2. Ouvrez l'application iSH

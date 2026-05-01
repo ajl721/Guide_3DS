@@ -10,7 +10,7 @@ Az [MSET9](https://github.com/zoogie/MSET9) egy exploit a System Setting alkalma
 
 ::: warning
 
-Ez az oldal iPhone vagy iPad eszközt iOS/iPadOS 14.0 vagy magasabb verzióval igényel. Ha Windows, macOS, or Linux számítógéped van, kövesd a [Boot9strap telepítése (MSET9 CLI)](installing-boot9strap-\(mset9-cli\)) oldalt helyette. Ha Android telefonod/tableted vagy Chromebook-od van, kövesd a [Boot9strap telepítése (MSET9 Play Store)](installing-boot9strap-\(mset9-play-store\)) oldalt helyette. Ha nem férsz hozzá ezen eszközök egyikéhez sem, akkor [alternatív exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits) kell használnod.
+Ez az oldal iPhone vagy iPad eszközt iOS/iPadOS 14.0 vagy magasabb verzióval igényel. Ha Windows, macOS, or Linux számítógéped van, kövesd a [Boot9strap telepítése (MSET9 CLI)](installing-boot9strap-(mset9-cli)) oldalt helyette. Ha Android telefonod/tableted vagy Chromebook-od van, kövesd a [Boot9strap telepítése (MSET9 Play Store)](installing-boot9strap-(mset9-play-store)) oldalt helyette. Ha nem férsz hozzá ezen eszközök egyikéhez sem, akkor [alternatív exploit](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits) kell használnod.
 
 :::
 

@@ -63,7 +63,7 @@ Pour les consoles qui utilisent une carte SD grand-format, une carte microSD dan
 
 ::: info
 
-Il est fortement recommandé de **n'utiliser qu'une seule carte SD** avec une console à la fois, car vous ne pouvez pas fusionner le contenu des deux cartes SD par la suite. Donc, si une carte SD est déjà dans votre console, vous devriez utiliser cette dernière pour modder votre console, ou copiez tout vers une carte SD de plus grande capacité avant ou après avoir moddé votre console.
+Il est fortement recommandé de **n'utiliser qu'une seule carte SD** avec une console à la fois, car vous ne pouvez pas fusionner le contenu des deux cartes SD par la suite. Donc, si une carte SD est déjà dans votre console, vous devriez utiliser cette carte SD pour modder votre console, ou copier tout vers une carte SD plus grande avant ou après l'avoir moddée.
 
 :::
 
@@ -79,7 +79,7 @@ Si vous le souhaitez, vous pouvez vérifier si votre carte SD comporte des erreu
 
 :::details Risques potentiels (Décharge de responsabilité)
 
-En moddant votre console, vous la soumettez à un risque (très faible, mais non nul) d'être brickée (console inutilisable). _**Un placement de fichier incorrect ne brickera PAS votre console**_, mais délibérément ignorer des instructions le peut.
+En moddant votre console, vous la soumettez à un risque (très faible, mais non nul) d'être brickée (rendue inutilisable). _**Un placement de fichier incorrect ne brickera PAS votre console**_, mais délibérément ignorer des instructions le pourrait.
 
 En bref, modder votre console est sans danger, mais _**vous seul êtes responsable**_ si quelque chose tourne mal.
 
@@ -91,7 +91,7 @@ En bref, modder votre console est sans danger, mais _**vous seul êtes responsab
 
 ::: warning
 
-Suivre ce guide à lui seul ne devrait pas entraîner de perte de données, mais la corruption de la carte SD est toujours une possibilité. Vous devriez faire une sauvegarde de votre carte SD (en particulier le dossier `Nintendo 3DS`) si vous avez des données importantes.
+Seulement suivre ce guide ne devrait pas entraîner de perte de données, mais la corruption de la carte SD est toujours une possibilité. Vous devriez faire une sauvegarde de votre carte SD (en particulier le dossier `Nintendo 3DS`) si vous avez des données importantes.
 
 :::
 
@@ -103,9 +103,9 @@ Suivre ce guide à lui seul ne devrait pas entraîner de perte de données, mais
 
 :::
 
-Quand vous copiez des fichiers sur la carte SD, il est important de les copier au bon endroit - sinon, la console ne détectera pas le fichier et l'exploit ou le logiciel que vous essayez d'utiliser ne fonctionnera pas. Un terme que vous verrez fréquemment sur ce guide est **racine de la carte SD**, ce qui signifie que vous n'êtes à l'intérieur d'aucun dossier sur votre carte SD. Le répertoire qui apparaît lorsque vous ouvrez votre carte SD pour la première fois sur votre ordinateur est appelé la « racine ».
+Quand vous copiez des fichiers sur la carte SD, il est important de les copier au bon endroit - sinon, la console ne détectera pas le fichier et l'exploit ou le logiciel que vous essayez d'utiliser ne fonctionnera pas. Un terme que vous verrez fréquemment sur ce guide est **racine de la carte SD**, ce qui signifie que vous n'êtes à l'intérieur d'aucun dossier sur votre carte SD. Le répertoire qui apparaît lorsque vous ouvrez votre carte SD pour la première fois sur votre ordinateur est appelé la 'racine'.
 
-Vous pouvez également voir les noms de dossiers indiqués comme ceci : `/dossier/`. Les slashs sont utilisés pour indiquer des répertoires et ne font pas partie du nom du dossier. Par exemple, `/dossier1/dossier2/` ferait référence au `dossier2` à l'intérieur du `dossier1` :
+Vous pouvez également voir les noms de dossiers indiqués comme ceci : `/dossier/`. Les barres obliques (slashs) sont utilisées pour indiquer des répertoires et ne font pas partie du nom du dossier. Par exemple, `/dossier1/dossier2/` ferait référence au `dossier2` à l'intérieur du `dossier1` :
 
 ::: info
 
@@ -145,7 +145,7 @@ Dans ce guide, vous copierez les fichiers qui sont téléchargés sur votre ordi
 
 Certains des fichiers que l'on vous demandera de télécharger arrivent dans le format `.zip`, qui est utilisé pour empaqueter plusieurs fichiers en un.
 
-Quand on vous demande de "copier un (fichier) à partir de (fichier).zip", cela signifie que vous devez ouvrir (ou "extraire") le fichier ZIP. À l'intérieur du fichier ZIP se trouve le fichier que vous cherchez, après quoi vous pouvez le copier à l'emplacement spécifié sur votre carte SD.
+Quand on vous demande de "copier (fichier) depuis l'archive (fichier).zip", cela signifie que vous devez ouvrir (ou "extraire") le fichier ZIP. À l'intérieur du fichier ZIP se trouve le fichier que vous cherchez, après quoi vous pouvez le copier à l'emplacement spécifié sur votre carte SD.
 
 Sur la plupart des systèmes d'exploitation, vous pouvez extraire des fichiers en double-cliquant sur le fichier. Si cela ne fonctionne pas, vous pouvez installer un outil d'extraction tiers réputé comme [7-zip](https://7-zip.org/) à la place.
 

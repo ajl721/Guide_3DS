@@ -57,7 +57,7 @@ Az SD/microSD kártyádnak a következő követelményeknek kell megfelelnie:
 - **Sebesség**: Bármilyen
   - Jelenleg a legolcsóbb kártya a piacon **Class 10** (pl. SanDisk Ultra). Gyorsabb kártyák elfogadhatók, de a 3DS nem tudja kihasználni a nagyobb sebességük
 - **Formátum**: FAT32 MBR-rel
-  - A 32 GB vagy kisebb kártyák eleve erre vannak formázvam míg a nagyobb SD kártyákat valószínűleg maniálisan kell formázni: [Windows](formatting-sd-\(windows\)), [macOS](formatting-sd-\(mac\)), [Linux](formatting-sd-\(linux\))
+  - A 32 GB vagy kisebb kártyák eleve erre vannak formázvam míg a nagyobb SD kártyákat valószínűleg maniálisan kell formázni: [Windows](formatting-sd-(windows)), [macOS](formatting-sd-(mac)), [Linux](formatting-sd-(linux))
 
 A teljes méretű SD kártyát használó konzolok esetében egy microSD kárty egy adapterben azzal egyenértékűen működik.
 
@@ -69,7 +69,7 @@ Erősen ajánlot, hogy **csak egy SD kártyát használj** bármikor a konzolhoz
 
 ::: info
 
-Ha szeretnéd, ellenőrizheted az SD kártyádat hibákra/megfelelőségre mielőtt követed ezt az útmutatót a [H2testw](h2testw-\(windows\))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-\(linux\)), vagy [F3XSwift (Mac)](f3xswift-\(mac\)) segtségével.
+Ha szeretnéd, ellenőrizheted az SD kártyádat hibákra/megfelelőségre mielőtt követed ezt az útmutatót a [H2testw](h2testw-(windows))/[ValiDrive](https://www.grc.com/validrive.htm) (Windows), [F3 (Linux)](f3-(linux)), vagy [F3XSwift (Mac)](f3xswift-(mac)) segtségével.
 
 :::
 
@@ -165,7 +165,7 @@ A Windows-os "WinRAR" applikáció kifejezetten ismert, hogy kompatibilitási pr
 
 :::
 
-Ha a számítógéped Windows-t futtat, a fájl kiterjesztések előfordulhat, hogy alapértelmezetten elrejtettek, ami nehezebbé teheti azon fájlok megtalálását, amiket keresel. A fájlkiterjesztések megjelenítéséhez kövesd [ezeket a lépéseket](file-extensions-\(windows\)).
+Ha a számítógéped Windows-t futtat, a fájl kiterjesztések előfordulhat, hogy alapértelmezetten elrejtettek, ami nehezebbé teheti azon fájlok megtalálását, amiket keresel. A fájlkiterjesztések megjelenítéséhez kövesd [ezeket a lépéseket](file-extensions-(windows)).
 
 ::::
 

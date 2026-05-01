@@ -4,11 +4,7 @@ invalidVersion: Il semblerait que ce numéro de version soit invalide.
 cfwPrefixDetected: Il semble que votre console dispose déjà d'un custom firmware. Veuillez réessayer la Section I. Si vous n'arrivez toujours qu'au menu HOME, merci de cliquer sur le lien ci-dessous et de faire une demande d'assistance en anglais.
 inviteLinkText: Discord de Nintendo Homebrew
 otherPrefix: (Autres)
-head:
-  [
-    [ 'script', { src: '/assets/js/common.js' } ],
-    [ 'script', { src: '/assets/js/selecting.js' } ]
-  ]
+head: [ [ 'script', { src: '/assets/js/common.js' } ], [ 'script', { src: '/assets/js/selecting.js' } ] ]
 ---
 
 # Pour commencer
